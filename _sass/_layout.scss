@@ -11,9 +11,12 @@ h2,
 h3 {
 	font-weight: 600;
 	color: $heading-font-color;
-	font-family: $heading-font;
 	line-height: 1.5;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  	font-size: 70px;
+    	text-transform: uppercase;
+    	font-family: 'Alfa Slab One', cursive;
+    	letter-spacing: 2px;
+
 }
 h1 {
 	color: $main;
