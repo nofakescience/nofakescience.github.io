@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La tribune
+title: Tribune
 permalink: /tribune/
 ---
 

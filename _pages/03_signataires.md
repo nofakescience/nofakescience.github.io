@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Les signataires
+title: Signataires
 permalink: /signataires
 ---
 
