@@ -28,16 +28,6 @@ h1 {
 h2 {
 	font-size: 2em;
 }
-a,
-a:visited {
-	color: $link-color;
-	text-decoration: underline;
-	font-weight: bold;
-}
-a:hover {
-	color: $link-hover-color;
-	text-decoration: underline;
-}
 div#banner {
 	background-image: url(assets/images/header_background.jpg);
 	opacity: 0.75;
@@ -87,9 +77,11 @@ header {
 			a {
 				flex: 1;
 				display: flex;
+				color: $link-color;
 				text-decoration: none;
 				justify-content: space-around;
 				align-items: center;
+				font-weight: bold;
 				div {
 					font-size: 2vh;
 					font-family: 'Muli', sans-serif;
