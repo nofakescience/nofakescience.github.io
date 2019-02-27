@@ -38,15 +38,12 @@ a:hover {
 	color: $link-hover-color;
 	text-decoration: underline;
 }
-header {
+div#banner {
 	background-image: url(assets/images/header_background.jpg);
-	padding: 0px 15px;
-	text-align: center;
-	margin: 50px 0 0;
-	height: 50vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	opacity: 0.75;
+	margin-top: 10px;
+	height: 20vh;
+	width: 100%
 }
 main {
 	padding: 0 15px;
@@ -57,9 +54,7 @@ time {
 	color: #898989;
 }
 
-/* Aside */
-
-aside {
+header {
 	z-index: 2;
 	box-shadow: 0px 1px 1px RGBA(4, 25, 54, .1);
 	display: flex;
