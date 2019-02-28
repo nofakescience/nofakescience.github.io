@@ -47,7 +47,7 @@ main {
 			margin: 0;
 		}
 	}
-	@media(max-width: 1000px) {
+	@media(max-width: $mobile-width) {
 		div#form {
 			flex: 0 0 100%;
 			order: 2;
