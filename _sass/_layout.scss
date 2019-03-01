@@ -32,9 +32,7 @@ main {
 		}
 	}
 	div#twitter {
-		background-color: blue;
 		width: 25vw;
-		height: 200px;
 		order: 3;
 	}
 	article{
@@ -62,6 +60,7 @@ main {
 		div#twitter {
 			flex: 0 0 100%;
 			order: 3;
+			height: 500px;
 		}
 		article {
 			border: none;
