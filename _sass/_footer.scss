@@ -1,9 +1,9 @@
 footer {
-	position: fixed;
-	bottom: 0;
-	width: 100%;
+	position: relative;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
 	background: linear-gradient(#F4F4F4, #B4B4B4);
-	margin: 50px 0 0;
 	padding: 10px;
 	display: flex;
 	justify-content: space-around;

@@ -1,13 +1,12 @@
 div#banner {
 	background-image: url(assets/images/header_background.jpg);
 	opacity: 0.75;
-	margin-top: 7vh;
 	height: 30vh;
 	width: 100%
 }
 header {
 	top: 0px;
-	position: fixed;
+	position: sticky;
 	background: white;
 	width: 100%;
 	z-index: 2;
