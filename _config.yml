@@ -25,6 +25,7 @@ github: nofakescience/nofakescience.github.io
 license: creative commons
 logo: The Noun Project
 logosite: https://thenounproject.com/
+google_form: https://docs.google.com/forms/d/e/1FAIpQLSci61X8wZbW5NPAt7RS-bLXth0RMeL4VX4WuZBOlu5ZR9_5tg/viewform?embedded=true
 
 # Build settings
 sass:
