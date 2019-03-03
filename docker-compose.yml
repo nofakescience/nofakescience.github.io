@@ -10,7 +10,7 @@ services:
 
   serve:
     image: jekyll/builder
-    command: jekyll serve --incremental --livereload --watch --force_polling
+    command: jekyll serve --livereload --watch --force_polling
     volumes:
       - ./:/srv/jekyll:rw
     ports:

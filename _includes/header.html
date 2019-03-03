@@ -1,17 +1,21 @@
-<aside>
-	<div class="container">
-		<nav>
-			<ul>
-				{% for page in site.pages %} {% if page.title %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %} {% endfor %}
-			</ul>
-		</nav>
-	</div>
-</aside>
-
 <header>
-	<div class="site_title">
-	<h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
-	</div>
+		<div id="title">
+			<div>No Fake Science</div>
+			<img src="/css/assets/images/telescope.svg" />
+		</div>
+		<nav>
+			{% for page in site.pages %}
+				{% if page.title %}
+					<div class="button">
+						<a href="{{ page.url | prepend: site.baseurl }}">
+							<div>
+							{{ page.title }}
+							</div>
+						</a>
+					</div>
+				{% endif %}
+			{% endfor %}
+		</nav>
 </header>
+
+<div id="banner"></div>
