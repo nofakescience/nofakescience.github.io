@@ -2,6 +2,8 @@
 layout: page
 title: Signataires
 permalink: /signataires
+button: true
+order: 3
 ---
 
 * Signataire 1

@@ -2,6 +2,8 @@
 layout: page
 title: Tribune
 permalink: /tribune/
+button: true
+order: 1
 ---
 
 Consequatur laborum recusandae aut provident earum et atque. Numquam nihil non qui aperiam neque. Magnam iste est eum labore et deleniti eos minus. Odit qui est ratione quod non aut. Ducimus aut aspernatur unde culpa voluptas autem quod blanditiis.
