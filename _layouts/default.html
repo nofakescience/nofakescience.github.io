@@ -5,11 +5,15 @@
 <body>
 	{% include header.html %}
 	<main>
-		<div id="form"></div>
+		<div id="form">
+			{% include form.html %}
+		</div>
 		<article>
 			{{ content }}
 		</article>
-		<div id="twitter"></div>
+		<div id="twitter">
+			{% include twitter.html %}
+		</div>
 	</main>
 	{% include footer.html %}
 </body>
