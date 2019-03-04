@@ -40,3 +40,10 @@ docker-compose up build
 ```
 En cours
 ```
+
+## Ajout d'article de presse
+Pour ajouter un objet dans la liste des articles de presse (section droite du site web), il faut ajouter un objet dans le fichier [_data/press.yml](./_data/press.yml), en précisant les informations suivantes :
+ * site : le site de l'article de presse
+ * desc : une courte description de l'article
+ * date : la date de publication
+ * link : le lien pour accéder à l'article
