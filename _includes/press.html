@@ -1,0 +1,11 @@
+<div id="press">
+	<h3>Dans la presse</h3>
+	{% for item in site.data.press %}
+	<a href="{{item.link}}" target="_blank" class="article">
+		<h4>{{item.site}}</h4>
+		<div class="content">
+			{{item.desc}}
+		</div>
+	</a>
+	{% endfor %}
+</div>
