@@ -4,8 +4,9 @@
 			<img src="/css/assets/images/telescope.svg" />
 		</div>
 		<nav>
-			{% for page in site.pages %}
-				{% if page.title %}
+			{% assign pages = site.pages | sort:"order" %}
+			{% for page in pages %}
+				{% if page.button %}
 					<div class="button">
 						<a href="{{ page.url | prepend: site.baseurl }}">
 							<div>
