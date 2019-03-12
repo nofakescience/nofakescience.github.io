@@ -3,4 +3,17 @@ article#sources {
 		color: inherit;
 		text-decoration: none;
 	}
+	.fa {
+		padding: inherit;
+	}
+	.header-link {
+		opacity: 0;
+		\-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+		\-moz-transition: opacity 0.2s ease-in-out 0.1s;
+		\-ms-transition: opacity 0.2s ease-in-out 0.1s;
+	}
+
+	h3:hover .header-link {
+		opacity: 1;
+	}
 }
