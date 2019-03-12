@@ -2,6 +2,7 @@
 id: tribune
 layout: page
 title: Tribune
+display-title: false
 permalink: /tribune/
 button: true
 order: 1

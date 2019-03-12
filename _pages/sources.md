@@ -2,6 +2,7 @@
 id: sources
 layout: page
 title: Sources
+display-title: true
 permalink: /sources
 button: true
 order: 2

@@ -2,6 +2,7 @@
 id: signataires
 layout: page
 title: Signataires
+display-title: true
 permalink: /signataires
 button: true
 order: 3
