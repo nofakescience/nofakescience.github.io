@@ -1,4 +1,5 @@
 ---
+id: legal
 layout: page
 title: Mentions légales
 permalink: /legal

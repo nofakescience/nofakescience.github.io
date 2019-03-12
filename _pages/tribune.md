@@ -1,4 +1,5 @@
 ---
+id: tribune
 layout: page
 title: Tribune
 permalink: /tribune/

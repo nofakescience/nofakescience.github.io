@@ -1,4 +1,5 @@
 ---
+id: signataires
 layout: page
 title: Signataires
 permalink: /signataires

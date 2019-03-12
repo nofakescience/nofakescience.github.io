@@ -1,4 +1,5 @@
 ---
+id: sources
 layout: page
 title: Sources
 permalink: /sources
