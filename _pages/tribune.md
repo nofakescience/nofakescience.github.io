@@ -1,4 +1,12 @@
-
+---
+id: tribune
+layout: page
+title: Tribune
+display-title: false
+permalink: /tribune/
+button: true
+order: 1
+---
 
 Quo assumenda tenetur neque animi sapiente. Exercitationem vitae eligendi consequuntur voluptates impedit nemo architecto. Delectus et blanditiis aliquam impedit atque qui voluptatibus omnis. Autem cupiditate est pariatur ab sint vel ipsa praesentium.
 
