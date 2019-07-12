@@ -1,5 +1,22 @@
 ---
 ---
+
+@font-face {
+  font-family: "OldPress";
+  src: url("/assets/fonts/OldPress/OldPress.woff2") format('woff2'),
+       url("/assets/fonts/OldPress/OldPress.woff") format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "OldPressItalic";
+  src: url("/assets/fonts/OldPress/OldPressItalic.woff2") format('woff2'),
+       url("/assets/fonts/OldPress/OldPressItalic.woff") format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 @import
   "base",
   "footer",
