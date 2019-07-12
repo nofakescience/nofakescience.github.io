@@ -2,14 +2,13 @@
 		<div id="title">
 			<div>No Fake Science</div>
 			<img src="/assets/img/logo_no_fake_science.svg" />
-			<img src="/assets/img/telescope.svg" />
 		</div>
 		<nav>
 			{% assign pages = site.pages | sort:"order" %}
 			{% for page in pages %}
 				{% if page.button %}
 					<div class="button">
-						<a href="{{ page.url | prepend: site.baseurl }}">
+						<a href="{{ site.baseurl | append: page.url }}">
 							<div>
 							{{ page.title }}
 							</div>
