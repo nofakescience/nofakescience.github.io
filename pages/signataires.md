@@ -37,7 +37,7 @@ order: 2
 24.	Aspert Théo	-	Ingénieur biomédical, doctorant en biologie, administrateur de l'association Sapiens
 25.	Aunis-Oumghar Clément	-	Orthophoniste
 26.	Aurias Aline	-	Journaliste scientifique et productrice bio
-27.	Axelrad Brigitte	-	Vice-présidente de lAssociation française pour linformation scientifique
+27.	Axelrad Brigitte	-	Vice-présidente de l'Association française pour l'information scientifique
 28.	Bacquet Maxime	-	Interne de pédiatrie
 29.	Baillet Victoire	-	Docteure en génétique/génomique
 30.	Barthélemy Elsa	-	Docteure en Pharmacie
@@ -150,7 +150,7 @@ order: 2
 137.	Hazak Ora	-	Group Leader at the University of Fribourg, Plant Molecular Biology
 138.	Herpson Cédric	-	Maître de conférences, LIP6 - CNRS Sorbonne Université
 139.	Hervieux Julien	-	Ecrivain, vulgarisateur
-140.	Hodoroaba Vincent	-	Kinésithérapeute Diplômé dÉtat
+140.	Hodoroaba Vincent	-	Kinésithérapeute Diplômé d'État
 141.	Hossein Maxime	-	Médecin
 142.	Jorda Michel	-	Médecin
 143.	Joyard Jacques	-	Directeur de recherche honoraire CNRS
@@ -200,7 +200,7 @@ order: 2
 187.	Moulin Cécile	-	Doctorante en bioinformatique
 188.	Moussaid Mehdi	-	Chercheur en sciences cognitives
 189.	Muller Quentin	-	Chercheur post-doctoral en biologie
-190.	Naud Michel	-	Chef d'entreprise, ancient président lassociation française pour linformation scientifique
+190.	Naud Michel	-	Chef d'entreprise, ancient président l'association française pour l'information scientifique
 191.	Negrel Jean	-	Chercheur en sciences polaires et vulgarisateur
 192.	Noirel Josselin	-	Maître de conférences
 193.	Otten Leon	-	Professeur de biologie moléculaire végétale émérite
