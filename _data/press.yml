@@ -1,8 +1,14 @@
 -
-  site: Le Soleil
+  site: L'Express
+  desc: Le collectif "NoFakeScience" appelle à retisser les liens entre scientifiques et médias.
+  date: 15-07-2019
+  link: https://www.lexpress.fr/actualite/medias/le-collectif-nofakescience-appelle-a-retisser-les-liens-entre-scientifiques-et-medias_2089818.html
+
+-
+  site: Association Française pour l'Information Scientifique
   desc: La méthode scientifique oubliée dans les médias.
-  date: 14-07-2019
-  link: https://www.lesoleil.com/actualite/science/la-methode-scientifique-oubliee-dans-les-medias-b2ffb3daae4555df5a140e0252b067ef
+  date: 15-07-2019
+  link: https://www.pseudo-sciences.org/La-methode-scientifique-oubliee-dans-les-medias
 
 -
   site: Heidi News
@@ -21,3 +27,9 @@
   desc: "\"La science ne saurait avoir de parti-pris\". L’appel de 250 scientifiques aux journalistes."
   date: 15-07-2019
   link: https://www.lopinion.fr/edition/politique/science-ne-saurait-avoir-parti-pris-l-appel-250-scientifiques-aux-192812
+
+-
+  site: Le Soleil
+  desc: La méthode scientifique oubliée dans les médias.
+  date: 14-07-2019
+  link: https://www.lesoleil.com/actualite/science/la-methode-scientifique-oubliee-dans-les-medias-b2ffb3daae4555df5a140e0252b067ef
