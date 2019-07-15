@@ -1,11 +1,11 @@
-#-
-#  site: Le Monde
-#  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#  date: 04-03-2019
-#  link: http://www.lemonde.fr
+-
+  site: Le Soleil
+  desc: La méthode scientifique oubliée dans les médias.
+  date: 14-07-2019
+  link: https://www.lesoleil.com/actualite/science/la-methode-scientifique-oubliee-dans-les-medias-b2ffb3daae4555df5a140e0252b067ef
 
-#-
-#  site: Le Figaro
-#  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#  date: 07-02-2019
-#  link: http://www.lefigaro.fr
+-
+  site: Heidi News
+  desc: Santé, environnement, recherche\: la méthode scientifique oubliée des médias.
+  date: 15-07-2019
+  link: https://www.heidi.news/articles/sante-environnement-recherche-la-methode-scientifique-oubliee-des-medias
