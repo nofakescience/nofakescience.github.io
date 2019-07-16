@@ -1,13 +1,31 @@
 title: No Fake Science
-description: Site du collectif NoFakeScience.
+description: "NoFakeScience est un collectif de citoyen·ne·s qui s’est réuni autour d’une préoccupation majeure : le traitement actuel de l’information scientifique dans les médias."
 author: NoFakeScience
 email: nofakescience@gmail.com
-url: "http://localhost:4000"
+url: https://nofake.science/
 baseurl: ""
+logo: /assets/img/logo_no_fake_science.svg
+lang: fr_FR
 
-social_links:
-  twitter: nofake_science
-  facebook: CollectifNoFakeScience
-  github: nofakescience/nofakescience.github.io
+# seo format, do not change the keys.
+twitter:
+  username: nofake_science
 
-plugins: []
+# seo format, do not change the keys.
+facebook:
+  username: CollectifNoFakeScience
+  publisher: https://www.facebook.com/CollectifNoFakeScience/
+
+github:
+  link: nofakescience/nofakescience.github.io
+
+# seo format, do not change the keys.
+social:
+  name: NoFakeScience
+  links:
+    - https://twitter.com/nofake_science
+    - https://www.facebook.com/CollectifNoFakeScience
+    - nofakescience/nofakescience.github.io
+
+plugins:
+  - jekyll-seo-tag
