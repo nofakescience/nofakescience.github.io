@@ -8,7 +8,7 @@
   <meta name="description" content="{{ site.description }}" />
 
 	<link rel="stylesheet" href="/assets/css/main.css" type="text/css">
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="canonical" href="{{ site.baseurl | append: site.url | append: page.url | replace:'index.html','' }}">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600" type="text/css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli:400,300" type="text/css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
