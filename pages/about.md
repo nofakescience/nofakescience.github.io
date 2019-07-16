@@ -8,7 +8,7 @@ button: true
 order: 3
 ---
 
-No Fake Science est un collectif de citoyen·ne·s qui s’est réuni autour d’une préoccupation majeure : le traitement actuel de l’information scientifique dans les médias.
+NoFakeScience est un collectif de citoyen·ne·s qui s’est réuni autour d’une préoccupation majeure : le traitement actuel de l’information scientifique dans les médias.
 
 Partant du constat que le sensationnalisme, la surinterprétation des résultats ou l’idéologie prennent souvent le pas sur une démarche de transmission rigoureuse des connaissances, le collectif No Fake Science a vocation d’alerter et d’interpeller de manière rationnelle et pacifiste les acteur·trice·s des médias mais aussi les citoyen·ne·s et les politiques sur l’importance d’une information scientifique pondérée, s’appuyant sur des échanges constructifs entre journalistes et scientifiques.
 
