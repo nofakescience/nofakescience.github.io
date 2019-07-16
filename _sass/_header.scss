@@ -1,43 +1,50 @@
 div#banner {
-	background-image: url(/assets/img/header_background.jpg);
+	background-image: url("/assets/img/header_background.jpg");
 	opacity: 0.75;
 	height: 30vh;
-	width: 100%
+	width: 100%;
 }
+
 header {
-	top: 0px;
+	top: 0;
 	position: sticky;
 	background: white;
 	width: 100%;
 	z-index: 2;
-	box-shadow: 0px 1px 1px RGBA(4, 25, 54, .1);
+	box-shadow: 0 1px 1px RGBA(4, 25, 54, .1);
 	display: flex;
 	flex-wrap: wrap;
-	div#title{
+
+	div#title {
 		display: flex;
 		flex: 1;
 		align-items: center;
 		justify-content: center;
+
 		div {
 			color: $heading-font-color;
 			font-size: 5vh;
 			font-weight: bold;
 			white-space: nowrap;
 		}
+
 		img {
 			margin-left: 10px;
 			height: 7vh;
 		}
 	}
+
 	nav {
 		display: flex;
 		flex: 1;
+
 		div.button {
 			display: flex;
 			flex: 1;
 			width: 16vw;
 			margin-top: 1vh;
 			margin-bottom: 1vh;
+
 			a {
 				flex: 1;
 				display: flex;
@@ -46,18 +53,22 @@ header {
 				justify-content: space-around;
 				align-items: center;
 				font-weight: bold;
+
 				div {
 					font-size: 2vh;
 					font-family: 'Muli', sans-serif;
 				}
-				&:hover, &:active {
+
+				&:active,
+				&:hover {
 					background: #BFBFBF;
 					text-decoration: none;
 					color: $main;
 				}
 			}
 		}
-		div:not(:first-child){
+
+		div:not(:first-child) {
 			border: none;
 			border-left: 0.1px solid #BFBFBF;
 		}

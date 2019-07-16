@@ -1,20 +1,21 @@
 footer {
 	position: relative;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
+	bottom: 0;
+	left: 0;
+	right: 0;
 	background: linear-gradient(#F4F4F4, #B4B4B4);
 	padding: 10px;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
 	flex-wrap: wrap;
-	div#contact{
+
+	div#contact {
 		display: flex;
 		flex-direction: column;
 	}
-	div#socialmedias{
-	}
-	div#legal{
-	}
+
+	div#socialmedias {}
+
+	div#legal {}
 }
