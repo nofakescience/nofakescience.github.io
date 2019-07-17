@@ -178,7 +178,7 @@ Ingénieure en Informatique INSA Lyon de formation, Jennifer réalise un doctora
 
 **Marc ROBINSON-RECHAVI**<br/>
 **Professeur de bioinformatique.**<br/>
-Depuis 1994 Marc mène à l’université de Lausanne des recherches à l’interface de la biologie évolutive, de la biologie moléculaire, et de l’informatique. Il est également chef de groupe à l’Institut suisse de bioinformatique (SIB), et milite pour la publication ouverte (open access). Motivé par la lecture des blogs de science anglophones, il lance en 2010 un blog de science francophone, traitant notamment des relations entre scientifiques et médias.
+Depuis 2005 Marc mène à l’université de Lausanne des recherches à l’interface de la biologie évolutive, de la biologie moléculaire, et de l’informatique. Il est également chef de groupe à l’Institut suisse de bioinformatique (SIB), et milite pour la publication ouverte (open access). Motivé par la lecture des blogs de science anglophones, il lance en 2010 un blog de science francophone, traitant notamment des relations entre scientifiques et médias.
 
 >“Mon expérience de blogueur a été enrichissante, mais aussi frustrante dans la difficulté de communiquer entre scientifiques et journalistes en Europe francophone, et la difficulté de faire passer un message basé sur la science et les faits quand les intérêts politiques vont dans un autre sens.”
 
