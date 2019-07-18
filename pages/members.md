@@ -219,3 +219,13 @@ Diplômé d’un master 2 en santé publique, Cyril s’occupe de vulgarisation 
 Soucieux de transmettre au grand public, tout autant qu’à mes patients, une information claire, loyale et précise, Cyril s’intéresse depuis un certain temps au traitement médiatique de sujets scientifiques, spécifiquement ceux en rapport avec la santé.
 
 >“J’ai signé cette tribune avec le projet d’obtenir une certain rigueur de la part des médias généralistes dans l’approche et la vulgarisation de sujets scientifiques.”
+
+<br />
+
+**Brendan GOUBIN**<br />
+**Ingénieur en informatique**<br />
+Diplômé d'un master en informatique de l'Université Rennes 1 et de l'Université d'Aalto (Helsinki, Finlande), Brendan fait du développement web dans le domaine de la santé. Passionné par le contenu des sciences, il finit par découvrir ce que sont les biais cognitifs, les arguments fallacieux, la méthode scientifique et de manière générale l'esprit critique.
+
+>"Le discours ecolo s'effondre quasi-systématiquement quand il est mis face aux faits, ça serait pas mal de commencer à faire les choses correctement surtout quand on peut s'appuyer sur les données que la science produit."
+
+>"La science, ce qu'elle produit et ce qu'elle permet de faire sont des choses suffisamment passionnantes pour ne pas avoir besoin d'en faire du sensationnalisme hâtif et erroné."
