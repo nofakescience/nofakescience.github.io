@@ -63,4 +63,4 @@ Réchauffement climatique de 1,5°C - Rapport spécial du GIEC. Chapitre 2 : voi
 
 <br/>
 
-##### Droit d'auteur : ce texte est disponible sous licence Creative Commons attribution CC BY-ND 4.0, partage dans les mêmes conditions ; plus de détails [ici](https://creativecommons.org/licenses/by-nd/4.0/)
+##### Droit d'auteur : ce texte est disponible sous licence Creative Commons attribution CC BY-ND 4.0 ; plus de détails [ici](https://creativecommons.org/licenses/by-nd/4.0/)
