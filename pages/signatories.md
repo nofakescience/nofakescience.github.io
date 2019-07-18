@@ -262,7 +262,6 @@ order: 2
 249.	Woessner Géraldine	-	Journaliste
 250.	Zryd Jean-Pierre	-	Professeur honoraire UNIL (Suisse)
 
-
 **Signataires post-publication**
 231. Abel Yoann - Docteur en biologie moléculare - chercheur contractuel
 232. Adourian Christophe - Enseignant
@@ -664,3 +663,7 @@ order: 2
 628. Zores Florian - Médecin cardiologue
 629. Zorrilla Luc - Étudiant ingénieur
 630. Zufferey Noé - Doctorant en système d'information
+
+<br/>
+
+##### Si malgré notre vigilance vous constatiez des erreurs ou souhaitiez effectuer des modifications, merci de nous contacter à l'adresse nofakescience@gmail.com.
