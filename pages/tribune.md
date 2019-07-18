@@ -60,3 +60,7 @@ Climate Change 2013: The Physical Science Basis. Contribution du 1er groupe de t
 
 <a id="ref10">[10]</a> [GIEC](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/02/SR15_Chapter2_Low_Res.pdf)<br/>
 Réchauffement climatique de 1,5°C - Rapport spécial du GIEC. Chapitre 2 : voies d’atténuation compatibles avec 1,5°C dans le contexte du développement durable. GIEC. Consulté le 20 février 2019.
+
+<br/>
+
+##### Droit d'auteur : ce texte est disponible sous licence Creative Commons attribution CC BY-ND 4.0, partage dans les mêmes conditions ; plus de détails [ici](https://creativecommons.org/licenses/by-nd/4.0/)
