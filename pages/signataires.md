@@ -358,7 +358,6 @@ order: 2
 322. Yoann Dufresne - Ingénieur de recherche à l'institut Pasteur
 323. Christophe Adourian - Enseignant
 324. Jean-Marin Schlaich - Etudiant
-325. Marc Payen - Retraité de Météo-France, météorologue et climatologue
 326. Laurent Bernard - Bibliothécaire
 327. Romain Gonzalez - Mécanicien aéronautique
 328. Simon Hamel - Ingénieur en aérospatiale
@@ -450,7 +449,6 @@ order: 2
 414. Thibaud Josserand - Étudiant ingénieur du caoutchouc
 415. Benoît Vandame - Ingénieur
 416. Virginie Favier - Cheffe de projet Conseil Local de Lutte contre la Délinquance et Prévention de l'Insécurité
-417. Catherine Sirven - Ingénieure en bioinformatique
 418. Blaise Madeline - Docteur en Informatique, enseignant
 419. Sébastien Delhaye - Doctorant en neurobiologie
 420. Goulven Le coadic - Masseur kinesitherapeute
@@ -550,7 +548,7 @@ order: 2
 514. Aurélien Genin - Étudiant
 515. Jacques Latrive - Ingénieur en informatique
 516. Bastien Lamiral - Ingenieur Consultant
-517. Marilou Gougeon - Patiente atteinte d'un cancer incurable et bibliothécaire spécialiste en sources ouverts
+517. Marilou Gougeon - Bibliothécaire spécialiste en sources ouverts
 518. Arnaud Carpentier - Chercheur
 519. Pierluigi Cianci - Étudiant en ostéopathie
 520. Romain Salza - Docteur en Biochimie , chercheur.
