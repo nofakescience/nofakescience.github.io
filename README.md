@@ -1,3 +1,5 @@
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="CC BY-NC-ND 4.0" src="https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-brightgreen.svg"/></a>
+
 # Consultation
 La page est accessible [ici](https://nofakescience.github.io/).
 
