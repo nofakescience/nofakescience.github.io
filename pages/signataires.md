@@ -261,3 +261,302 @@ order: 2
 248.	Wautier Francis	-	Ingenieur
 249.	Woessner Géraldine	-	Journaliste
 250.	Zryd Jean-Pierre	-	Professeur honoraire UNIL (Suisse)
+
+
+**Signataires post-publication**
+231. Céline Guilbert - Vidéaste, vulgarisatrice de l'esprit critique et des notions scientifiques
+232. Samuel Vimaire - Compte Twitter militant proscience actif
+233. Simon Pascal - Écologue spécialisé en géomatique
+234. Tom Roud - Blogueur scientifique
+235. Nicolas Lebrun - Journaliste
+236. Benoit Danilo - Ingénieur édition des génomes
+237. Fabien Mercier - Chef de projet informatique
+238. Julien Nicolas - Directeur de recherche au CNRS (Université Paris-Saclay)
+239. Aurélien Aubry - Informaticien en systèmes et réseaux
+240. Jean-Sébastien Pourre - Developpeur web
+241. Augustin Péneau - Docteur en chimie organique
+242. Benoit Roussel - Docteur, chercheur Inserm
+243. Mathieu Delquignies - Formateur
+244. Sandrine Leblond - Agronome
+245. Liliane De Araujo - Clinical research associate
+246. Florent Fayolle - Ingénieur en informatique
+247. Nicolas Jacob - Directeur artistique
+248. Philippe Meresse - Docteur ingénieur en chimie organique
+249. Joanna Olivi - Technicienne
+250. Loic Massaia - Bibliothécaire
+251. Mathieu Leocmach - Chargé de recherche au CNRS (physique)
+252. Nicolas Lebreton - Chirurgien
+253. Léo Ponsard - Pharmacien
+254. Yoann Abel - Docteur en biologie moléculare - chercheur contractuel
+255. Jeanne Fasciolo - Ingénieure linguiste informaticienne
+256. Joachim Thibault - Vulgarisateur
+257. Chidambar Zinnoury - Ingénieur
+258. Amaël Hervoche - Monteur vidéo
+259. Florian Tupin - Étudiant ingénieur
+260. Julien Brunet - Docteur
+261. Jeannisset William - Expert scan 3D
+262. Baptiste Verger - Zététicien et hoaxbuster
+263. Alain Groulard - Pharmacien
+264. Romaric Gravet - Docteur en astrophysique, ingénieur
+265. Sylvain La Batide Alanore - Médecin
+266. Régis Louis-Joseph - Technicien informatique
+267. Sébastien Genilleau - Comptable
+268. Francois Malavieille - Anesthésiste Réanimateur
+269. Tanguy Lebrun - Étudiant en master biochimie structurale
+270. Luc Estebanez - Chercheur CNRS / neurosciences
+271. Samuel Demeulemeester - Journaliste
+272. Yvonnig Jan - Ingénieur
+273. Vincent Delafont - Maître de Conférences
+274. Audrey Valentin - Enseignante-chercheuse
+275. Emmanuel Tejerina - Technicien de recherche, Université Paris Descartes
+276. Christian Bredin - Médecin Gastroentérologue
+277. Charlotte Lisar - Etudiante infirmière
+278. Clément Boisard - Ingénieur
+279. Jean-Bernard Saxel - Ingénieur
+280. Sacha Guyot - Étudiant en ingénierie informatique
+281. Etienne Derat - Maître de Conférences
+282. Gauvain Minne - Conducteur de Train
+283. Nicolas Martenot - Dentiste
+284. Damien Viguier - Père au foyer
+285. Sébastien Pro - Ingenieur Informatique
+286. Simon Rebuffic - Infirmier
+287. Olivier Pourret - Docteur en biogéochimie
+288. Riccardo Fanciola - Journaliste
+289. François Plesse - Doctorant en intelligence artificielle
+290. Mathis Bouju - Ingénieur
+291. Yvan Pandelé - Journaliste science - santé
+292. Amandine Da Col - Étudiante ingénieure
+293. Clément Piot - Journaliste
+294. Félix Quéré - Étudiant en biologie (BCPST), citoyen français
+295. Marine Aubry - Doctorante en Photonique
+296. Anthony Fleury - Enseignant-Chercheur en informatique
+297. Guillaume Gaulier - Économiste
+298. Nicolas Massas - Vulgarisateur scientifique
+299. Maximilien Cuny - Docteur en écologie
+300. Pierre Delmas - Doctorant
+301. Charlène Coquisart - Étudiante en pharmacie / recherche
+302. Pauline Roumaud - Docteur
+303. Aurélien Le Bail - Agrégé de physique
+304. Mathieu Carrara - Doctorant en biologie moléculaire
+305. Samuel Barbaud - Risk manager
+306. Aude Sirven - Responsable developpement programme stratégique
+307. Pierre-Jacques Barthelemy - Physicien radioprotection
+308. Adrien Defossé - Développeur informatique
+309. Kevin Enhart - Illustrateur
+310. Lucile Pupier - Ingénieur
+311. Yohan Bonafé - Graphiste
+312. Adrien Fauré - Biologiste
+313. Romain Flechon - Ingénieur
+314. Paul Barrère - Étudiant en physique fondamentale
+315. Quentin Cerba - Chargé d'expertise
+316. Marc Vanholsbeeck - Maître de conférence, vulgarisation scientifique
+317. Matthieu Balerdi - Ingénieur
+318. Aymeric Mur - Ingénieur en biologie végétale
+319. Nathalie Krien - Psychologue sociale et environnementale
+320. Jérôme Vincent - Enseignant
+321. Axelle Devillers - Professeur de SVT
+322. Yoann Dufresne - Ingénieur de recherche à l'institut Pasteur
+323. Christophe Adourian - Enseignant
+324. Jean-Marin Schlaich - Etudiant
+326. Laurent Bernard - Bibliothécaire
+327. Romain Gonzalez - Mécanicien aéronautique
+328. Simon Hamel - Ingénieur en aérospatiale
+329. Julien Aubert-Schiappapietra - Agrégatif en philosophie
+330. Arthur Jamin - Chirurgien-dentiste
+331. Laure Martin - Professeur
+332. Julien Desmazières - Ingénieur agronome
+333. Thomas Regnault - Docteur en Biologie
+334. Yannick Rochat - Docteur en mathématiques appliquées aux sciences humaines et sociales
+335. Rémi Marcoccia - Responsable production
+336. Julian Seguin - Citoyen
+337. Charles Goy - Technicien informatique
+338. Aubin Vaillant - Professeur de Mathématiques-Sciences (Lycée Professionnel)
+339. Eloi Martinelli - Ingénieur informatique
+340. Véronique Masotti - Maître de conférence en écologie
+341. Guillaume Regent - Ingénieur bâtiment / énergie
+342. Ewen Lescop - Chercheur CNRS en biologie structurale
+343. Belkacem Benhammou - Ingénieur statistiques et Internet
+344. Marie-Gaël Chabaud - Préparatrice en pharmacie
+345. Caroline Marsan - Psychomotricienne
+346. Arnaud Becerra - Professeur
+347. Joseph Lemoine - Développeur Freelance
+348. Jean Debout - Agrochimiste
+349. Laurent Pahpy - Ingénieur, analyste IREF
+350. Juliette Durand - Ingénieure agronome
+351. Jean-Marc Gancille - Dirigeant d'ONG
+352. Clément Courtand - Informaticien
+353. Willy Grand - Sage Femme
+354. Jean-Charles Anger - Ingénieur en agriculture
+355. Fabrice Got - Psychologue
+356. Loup Damman - Biologiste
+357. Joseph Schneider - Systems Engineer - Oil & Gas Industry
+358. Sébastien Leignel - Agriculteur
+359. Patrice Ollivaud - Économiste
+360. Stanislas Corvisier - Étudiant à Sciences Po Lille
+361. Antoine Ospital - Médecin spécialiste en médecine générale
+362. Astrid Bichon - MKDE - Technicienne d'information médicale
+363. Etienne David - Doctorant en agronomie
+364. Jonathan Ritow - Infirmier libéral
+365. Frédéric Bayer - Ingénieur
+366. Luc Zorrilla - Étudiant ingénieur
+367. Julien Denisot - Ingénieur - procédures accidentelles nucléaire
+368. Alexis Ardoin - Médecin veille et sécurité sanitaire
+369. Christophe Duplais - Chercheur CNRS
+370. Emmanuelle Gouillart - Chercheuse physicienne
+371. Aurore Indot - Ouvrière
+372. Cecile Marquer - Dessinatrice en architecture
+373. Sébastien Clément - Vulgarisateur
+374. Fabien Majchrzak - Ingénieur
+375. Noé Zufferey - Doctorant en système d'information
+376. Julie Tuchagues - Infirmière
+377. Vincent Balouet - Ingénieur
+378. Jean-Christophe Paquet - Chirurgien
+379. Gaetan Hervouet - Ingenieur Informatique
+380. Isabelle Stévant - Docteur en bioinformatique
+381. Julien Machet - Enseignant sciences physiques et formateur esprit critique
+382. Adrien Montesinos - Étudiant en mathématiques
+383. Charles Brocherie - Enseignant
+384. Didier Mazal - Électrotechnicien
+385. Bé Jiem - Enseignant et sceptique
+386. Audric Cologne - Doctorant en bioinformatique
+387. Rémy Dumas - Docteur en médecine
+388. Benjamin Herrbach - Psychologue
+389. Jean-Loup Perrin - Informaticien
+390. Hugo Calligaro - Chercheur post-doctorant en neurophysiologie
+391. Jordan Picano-nacci - Ingénieur
+392. Michel Jorda - Médecin, vulgarisateur
+393. Brabant Quentin - Chercheur post-doctorant en informatique
+394. Eric Chaney - Conseiller économique
+395. Mathieu Markovitch - Etudiant en physique
+396. Hélène Leproust - Médecin
+397. Eymeric Lafranque - Attaché de recherche
+398. Richard Duchêne - Technicien en chimie
+399. Sébastien Fache - docteur en physique
+400. Fred de Lamotte - Chercheur
+401. Cécile Noirat - Ingénieur en informatique
+402. Clément Grégoire - Programmeur informatique
+403. Brice Dewarlez - Géomaticien, Master en écologie
+404. Jean-Luc Flament - Technicien de recherche
+405. Thomas Grenier - Étudiant
+406. Clément Bailleul - Étudiant
+407. Brigitte Couradeau - Médecin
+408. Rémi Thomas - Ingénieur R&D
+409. Rayan Malek - Étudiant en physique
+410. Adrien Cambillau - Ingénieur Informatique
+411. Adrïan Grolleau - Doctorant en physique quantique
+412. Théo Guitton - Étudiant
+413. Mohammed Larabi - Développeur informatique
+414. Thibaud Josserand - Étudiant ingénieur du caoutchouc
+415. Benoît Vandame - Ingénieur
+416. Virginie Favier - Cheffe de projet Conseil Local de Lutte contre la Délinquance et Prévention de l'Insécurité
+418. Blaise Madeline - Docteur en Informatique, enseignant
+419. Sébastien Delhaye - Doctorant en neurobiologie
+420. Goulven Le coadic - Masseur kinesitherapeute
+421. Carole-Anne Vollette - Neuroscientifique
+422. Jordy Cazalot - Kinésithérapeute
+423. Mathieu Salanne - Professeur à Sorbonne Université
+424. Marie El Baba - Enseignant-chercheur Physio-pharmacologie
+425. Jean-Paul Rouzé - Veilleur technologique
+426. Charlotte Henriet - Étudiante en thèse
+427. Pierre Goepfert - Attaché de recherche clinique
+428. Charles Beauchamps - Bioinformaticien
+429. Sylvia Amar - Gestionnaire de parc informatique
+430. Sébastien Hague - Psychologue
+431. Arnaud Lejeune - Ingénieur Logiciel
+432. Clément Dumas - Éducateur
+433. Arthur Aloncle - Étudiant en biologie
+434. Julien Boniol - Informaticien
+435. Marjorie Box - Étudiante Psychologie
+436. Coralie Samson - Doctorante psychologie sociale
+437. Gaëtan David - Docteur en médecine / urgentiste
+438. Frédéric Gérault - Ingénieur validation
+439. Daniel Loche - Ingénieur doctorant
+440. Hélène Pidon - Docteure en génétique végétale
+441. Eliora Israelievitch - Étudiante-Ingénieur
+442. Maël Bathfield - Chercheur
+443. Laurent Mathey - Docteur ès chimie, éditeur scientifique
+444. Léa Verdière - Doctorante en cancérologie et immunologie
+445. Alexandre Catala - Ingénieur
+446. Benjamin D'Ersu - Enseignant de sciences
+447. Stéphane Chambarlhac - Concepteur métier
+448. Lambert Baraut - Docteur en sciences de la terre / rédacteur scientifique
+449. Adrien Morvan - Etudiant en anthropologie
+450. Bruno Majérus - Doctorant en physique
+451. Nicolas Lethuillier - Ingénieur informatique
+452. Alexandre Presier - Monteur-étalonneur
+453. Thomas Elguedj - Professeur des Universités à l’INSA de Lyon (mécanique)
+454. Eve Eleinein - Ancienne journaliste
+455. Bertrand Baumeister - Rédacteur
+456. Jean-Vincent Vieux-Ingrassia - Professeur de SVT, biologiste et écologue marin
+457. Ammar Berro - Chercheur en matériaux cellulaires
+458. Mathieu Coquelle - Docteur en chimie des polymères, ingénieur R&D
+459. Florian Zores - Médecin cardiologue
+460. Arnaud Pommier - Docteur en immunologie
+461. Julien Alleman - Étudiant en électronique, ingénieur
+462. Pauline Ménard - Étudiante en psychologie
+463. Antoine Gibier - Apprenti ingénieur en cyberdéfense
+464. Philippe Ribeau - Journaliste scientifique
+465. Grégoire Olivier - Technicien biologiste
+466. Mathieu Massebœuf - CTO
+467. Vincent Beaudenon - Ingénieur Généraliste, Docteur en Informatique
+468. Nathan Grange - Docteur en thermique et énergétique, ingénieur de recherche dans l'industrie de la defense
+469. Agnes Guillaud - Agronome
+470. Camille Rhodon - Informaticien
+471. Julien Loock - Graphiste
+472. Nicolas Buj - Étudiant ingénieur en physique
+473. Cyrielle Mallart - Doctorante en Informatique et TAL
+474. Damien Vasse - Biologiste, professeur particulier de sciences et vulgarisateur
+475. Cecile Favre - Analyste marketing
+476. Laurent Chiche - Directeur de recherche retraité
+477. Chantal Labonté - Bibliothechnicienne
+478. Yves Zavaleta - Étudiant
+479. Maxime Cudel - Enseignant
+480. Lopez Théodore - Doctorant
+481. Quentin Guimard - Étudiant en informatique (Master)
+482. Gautier Kihn - Ingénieur
+483. Jules Voisin - Étudiant
+484. Paul Vienney - Étudiant
+485. Gaetan De Lavilleon - Docteur en neurosciences et co-fondateur de Cog’X
+486. Mathieu Gausset - Développeur d'application mobile
+487. Yves Amsellem - Ingénieur
+488. Guillaume Diard - Ingénieur en informatique
+489. Alban Derambure - Etudiant en école d'ingénieur
+490. Michael Tavernier - Vulgarisateur
+491. Luc Berton - Ingénieur en informatique
+492. Geneviève Boisard - Inspecteur général des bibliothèques honoraire
+493. Nicolas Deutsch - Ingénieur
+494. Johann Nicod - Docteur en mathématique, ingénieur pédagogique
+495. Guillaume Brachet - Docteur en immunologie et pharmacien
+496. Clément Violet - Étudiant Master Écologie
+497. Samuel Poidevin - Consultant
+498. Camille Boissel - Docteure et médiatrice scientifique
+499. Matteo Mauban - Étudiant
+500. Etienne Herbout - Professeur de physique - chimie
+501. Jean-Philippe Cunniet - Data Science (formateur)
+502. Corentin Penfornis - Doctorant en sciences des matériaux
+503. Léo Trapier - Ingénieur aéronautique
+504. Olivier Marchon - Réalisateur et écrivain
+505. Romain Thazet - Étudiant informatique
+506. Angelina Noclain - Doctorante en Chimie
+507. Brendan Siffert - Étudiant en sciences
+508. Benoit Barbalat - Ingenieur
+509. Sylvain De Coster - Ingénieur
+510. Baptiste Chareyre - Avocat
+511. Loïc Leplomb - Ingénieur développement applicatif
+512. Vincent Silber - PhD student
+513. Erwan Zidi - Medecin
+514. Aurélien Genin - Étudiant
+515. Jacques Latrive - Ingénieur en informatique
+516. Bastien Lamiral - Ingenieur Consultant
+517. Marilou Gougeon - Bibliothécaire spécialiste en sources ouverts
+518. Arnaud Carpentier - Chercheur
+519. Pierluigi Cianci - Étudiant en ostéopathie
+520. Romain Salza - Docteur en Biochimie , chercheur.
+521. Jérémie Vautard - Docteur en informatique
+522. Matthias Nicod - Étudiant
+523. Maxime Bedoin - Étudiant ingénieur en statistiques
+524. Audric Debladis - Ingénieur
+525. Florian Jamin - Technicien d'exploitation
+526. Jean-Claude Lebreton - Chômeur
+527. Arthur Cavagné - Enseignant
+528. Anne-Lise Pocheron - Doctorante en microbiologie et neurosciences
