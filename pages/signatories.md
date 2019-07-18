@@ -1,9 +1,9 @@
 ---
-id: signataires
+id: signatories
 layout: page
 title: Signataires
 display-title: true
-permalink: /signataires
+permalink: /signatories
 button: true
 order: 2
 ---
