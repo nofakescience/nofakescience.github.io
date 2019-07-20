@@ -9,6 +9,7 @@ footer {
 	justify-content: space-around;
 	align-items: center;
 	flex-wrap: wrap;
+	flex-direction: column;
 
 	div#contact {
 		display: flex;
@@ -19,5 +20,7 @@ footer {
 
 	div#legal {
 		font-size: 0.6em;
+		text-align: center;
+    margin-top: 2vh;
 	}
 }
