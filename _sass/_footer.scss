@@ -11,16 +11,11 @@ footer {
 	flex-wrap: wrap;
 	flex-direction: column;
 
-	div#contact {
-		display: flex;
-		flex-direction: column;
-	}
-
 	div#socialmedias {}
 
 	div#legal {
 		font-size: 0.6em;
 		text-align: center;
-    margin-top: 2vh;
+		margin-top: 15px;
 	}
 }

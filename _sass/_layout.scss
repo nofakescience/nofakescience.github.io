@@ -77,7 +77,7 @@ main {
 	}
 
 	article {
-		order: 1;
+		order: 2;
 		flex: 1;
 		padding: 10px;
 		border: none;
@@ -95,7 +95,7 @@ main {
 			margin: 0;
 		}
 	}
-	@media(max-width: $mobile-width) {
+	@media all and (max-width: $mobile-width) {
 		div#form {
 			flex: 0 0 100%;
 			order: 2;
@@ -112,8 +112,4 @@ main {
 			flex: 0 0 100%;
 		}
 	}
-}
-
-time {
-	color: #898989;
 }
