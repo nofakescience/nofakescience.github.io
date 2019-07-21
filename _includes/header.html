@@ -1,16 +1,16 @@
 <header>
 		<div id="title">
 			<div>No Fake Science</div>
-			<img src="/assets/img/logo_no_fake_science.svg" />
+			<img src="{{ "/assets/img/logo_no_fake_science.svg" | absolute_url }}" />
 		</div>
 		<nav>
 			{% assign pages = site.pages | sort:"order" %}
 			{% for page in pages %}
 				{% if page.button %}
 					<div class="button">
-						<a href="{{ site.baseurl | append: page.url }}">
+						<a href="{{ page.url | absolute_url }}">
 							<div>
-							{{ page.title }}
+								{{ page.title }}
 							</div>
 						</a>
 					</div>
