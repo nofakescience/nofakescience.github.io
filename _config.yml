@@ -2,7 +2,7 @@ title: No Fake Science
 description: "NoFakeScience est un collectif de citoyen·ne·s qui s’est réuni autour d’une préoccupation majeure : le traitement actuel de l’information scientifique dans les médias."
 author: NoFakeScience
 email: nofakescience@gmail.com
-url: https://nofake.science/
+url: "https://nofake.science/"
 baseurl: ""
 logo: /assets/img/logo_no_fake_science.svg
 lang: fr_FR
@@ -10,6 +10,7 @@ lang: fr_FR
 # seo format, do not change the keys.
 twitter:
   username: nofake_science
+  card: summary
 
 # seo format, do not change the keys.
 facebook:
@@ -26,6 +27,10 @@ social:
     - https://twitter.com/nofake_science
     - https://www.facebook.com/CollectifNoFakeScience
     - nofakescience/nofakescience.github.io
+
+# seo format, do not change the keys.
+author:
+  twitter: nofake_science
 
 plugins:
   - jekyll-seo-tag
