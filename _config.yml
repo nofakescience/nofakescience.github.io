@@ -7,6 +7,9 @@ baseurl: ""
 logo: /assets/img/logo_no_fake_science.svg
 lang: fr_FR
 
+# jekyll-multiple-languages-plugin settings
+languages: ["fr","en"]
+
 # seo format, do not change the keys.
 twitter:
   username: nofake_science
@@ -32,6 +35,11 @@ social:
 author:
   twitter: nofake_science
 
+markdown: kramdown
+kramdown:
+  auto_ids: false
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
