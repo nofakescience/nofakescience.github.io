@@ -17,7 +17,7 @@ La tribune #NoFakeScience a été rédigée par 20 auteur·trice·s indépendant
 Pour plus d’informations, nous vous renvoyons à notre page [“Qui sommes-nous”]().
 
 #### De qui est-il composé ?
-Le collectif #NoFakeScience est composé de 20 personnes issues de différentes formations et exerçant dans des domaines variés, mais ayant tou(te)s en commun d’exercer un métier scientifique (chercheur·se, ingénieur·e, etc.) ou en rapport avec la science (vulgarisateur·rice, gestionnaire de l’information, etc.).
+Le collectif #NoFakeScience est composé de 20 personnes issues de différentes formations et exerçant dans des domaines variés, mais ayant tou.te.s en commun d’exercer un métier scientifique (chercheur·se, ingénieur·e, *etc*.) ou en rapport avec la science (vulgarisateur·rice, gestionnaire de l’information, *etc*.).
 
 Vous pouvez retrouver leurs profils dans la section [“Présentation des membres”](https://nofake.science/about).
 
