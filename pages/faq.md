@@ -1,7 +1,7 @@
 ---
 id: faq
 layout: page
-title: FAQ
+title: Foire Aux Questions
 display-title: true
 permalink: /faq
 button: true
