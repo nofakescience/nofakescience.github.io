@@ -1,7 +1,7 @@
 ---
 id: members
 layout: page
-title: Présentation des membres
+title: pages.members.title
 display-title: true
 permalink: /members
 button: true

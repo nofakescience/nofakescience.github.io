@@ -1,7 +1,7 @@
 ---
 id: tribune
 layout: page
-title: Tribune
+title: pages.tribune.title
 display-title: false
 permalink: /tribune/
 button: true

@@ -1,7 +1,7 @@
 ---
 id: about
 layout: page
-title: Qui sommes-nous ?
+title: pages.about.title
 display-title: true
 permalink: /about
 button: true

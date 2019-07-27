@@ -1,7 +1,7 @@
 ---
 id: signatories
 layout: page
-title: Signataires
+title: pages.signatories.title
 display-title: true
 permalink: /signatories
 button: true
@@ -759,7 +759,6 @@ order: 2
 0. Cambonie Jerome - Informaticien
 0. Camboulives Clément - Ingénieur
 0. Cance Thierry - Infirmier
-0. Canon François-Marie - Pédiatre
 0. Cantagrel Paul - Médecin
 0. Cantarel Laurie - Technicienne de laboratoire
 0. Caplet Nathalie - Responsable médiation scientifique et implication des patients dans la recherche sur le cancer
@@ -777,6 +776,7 @@ order: 2
 0. Carlevaris Simon - Enseignant
 0. Carlier Heiko - Étudiant à l'EPITA
 0. Carlino Guillaume - Rédacteur technique
+0. Caron François-Marie - Pédiatre
 0. Caron Guillaume - Ingénieur
 0. Caron Maxime - Citoyen
 0. Carpentier Arnaud - Chercheur

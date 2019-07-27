@@ -1,0 +1,23 @@
+global:
+  langs:
+    fr: "French"
+    en: "English"
+
+includes:
+  footer:
+    legal_mention: "Ce(tte) œuvre est mise à disposition selon les termes de la"
+    legal_link: "Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International"
+  press:
+    title: "Dans la presse"
+
+pages:
+  about:
+    title: "Qui sommes-nous ?"
+  faq:
+    title: "Foire Aux Questions"
+  members:
+    title: "Présentation des membres"
+  signatories:
+    title: "Signataires"
+  tribune:
+    title: "Tribune"
