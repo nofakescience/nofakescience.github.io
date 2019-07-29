@@ -39,7 +39,14 @@ markdown: kramdown
 kramdown:
   auto_ids: false
 
+jekyll_admin:
+  hidden_links:
+    - staticfiles
+    - datafiles
+    - configuration
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-multiple-languages-plugin
+  - jekyll-admin
