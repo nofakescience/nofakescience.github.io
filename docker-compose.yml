@@ -1,0 +1,18 @@
+version: "3.8.6"
+
+services:
+
+  build:
+    image: jekyll/builder
+    command: jekyll build
+    volumes:
+      - ./:/srv/jekyll:rw
+
+  serve:
+    image: jekyll/builder
+    command: jekyll serve --livereload --watch --force_polling
+    volumes:
+      - ./:/srv/jekyll:rw
+    ports:
+      - "4000:4000"
+      - "35729:35729"
