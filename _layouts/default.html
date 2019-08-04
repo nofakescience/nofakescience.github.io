@@ -5,18 +5,20 @@
 	{% include head.html %}
 	<body>
 		{% include header.html %}
-		<main>
-			<div id="form">
+		<div id="content">
+			<aside id="left">
 				{% include form.html %}
-			</div>
-			<article id="{{page.id}}">
-				{{ content }}
-			</article>
-			<div id="external">
+			</aside>
+			<main>
+				<article id="{{page.id}}">
+					{{ content }}
+				</article>
+			</main>
+			<aside id="right">
 				{% include twitter.html %}
 				{% include press.html %}
-			</div>
-		</main>
+			</aside>
+		</div>
 		{% include footer.html %}
 	</body>
 </html>

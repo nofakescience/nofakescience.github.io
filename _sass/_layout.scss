@@ -1,5 +1,6 @@
 html {
 	height: 100%;
+	font-size: 100%;
 }
 
 body {
@@ -12,7 +13,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
-main {
+div#content {
 	width: 100%;
 	padding: 20px 15px;
 	margin: 0 auto;
@@ -21,68 +22,46 @@ main {
 	flex-wrap: wrap;
 	padding-top: 20px;
 
-	div {
-		padding: 10px;
-	}
+	@media all and (max-width: $mobile-width) {
+		div#left {
+			flex: 0 0 100%;
+			order: 2;
+		}
 
-	div#form {
-		width: 25vw;
-		height: 800px;
-		order: 1;
+		div#right {
+			flex: 0 0 100%;
+			order: 3;
+		}
 
-		iframe {
-			width: 100%;
-			height: 100%;
+		main {
+			border: none;
+			order: 1;
+			flex: 0 0 100%;
 		}
 	}
+}
 
-	div#external {
-		width: 25vw;
-		order: 3;
+div#content aside#left {
+	width: 25vw;
+	height: 800px;
+	order: 1;
+	padding: 10px;
 
-		div#press {
-			display: flex;
-			flex-direction: column;
-
-			h3 {
-				font-weight: bold;
-				font-size: 1.5em;
-				color: $heading-font-color;
-				font-family: $heading-font;
-				line-height: 1.5;
-				text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
-				margin: 0;
-			}
-
-			a.article {
-				text-decoration: none;
-				color: inherit;
-				background-color: #E5E5E5;
-				padding: 5px;
-				margin-top: 10px;
-				border-radius: 10px;
-
-				h4 {
-					font-weight: bold;
-					font-size: 1em;
-					margin: 0;
-				}
-
-				div.content {
-					font-size: 0.75em;
-					padding: 0;
-				}
-			}
-		}
+	iframe {
+		width: 100%;
+		height: 100%;
 	}
+}
+
+div#content main {
+	order: 2;
+	flex: 1;
+	padding: 10px;
+	border: none;
+	border-left: 0.1px solid #BFBFBF;
+	border-right: 0.1px solid #BFBFBF;
 
 	article {
-		order: 2;
-		flex: 1;
-		padding: 10px;
-		border: none;
-		border-left: 0.1px solid #BFBFBF;
-		border-right: 0.1px solid #BFBFBF;
 		text-align: justify;
 
 		h2 {
@@ -95,21 +74,49 @@ main {
 			margin: 0;
 		}
 	}
-	@media all and (max-width: $mobile-width) {
-		div#form {
-			flex: 0 0 100%;
-			order: 2;
-		}
+}
 
-		div#external {
-			flex: 0 0 100%;
-			order: 3;
+div#content aside#right {
+	width: 25vw;
+	order: 3;
+	padding: 10px;
+
+	section#press {
+		display: flex;
+		flex-direction: column;
+		padding: 10px;
+
+		h2 {
+			font-weight: bold;
+			font-size: 1.5em;
+			color: $heading-font-color;
+			font-family: $heading-font;
+			line-height: 1.5;
+			text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+			margin: 0;
 		}
 
 		article {
-			border: none;
-			order: 1;
-			flex: 0 0 100%;
+			background-color: #E5E5E5;
+			padding: 5px;
+			margin-top: 10px;
+			border-radius: 10px;
+
+			a {
+				color: inherit;
+				text-decoration: none;
+
+				h3 {
+					font-weight: bold;
+					font-size: 1em;
+					margin: 0;
+				}
+
+				p {
+					font-size: 0.75em;
+					margin: 0;
+				}
+			}
 		}
 	}
 }

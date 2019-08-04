@@ -37,7 +37,8 @@ header {
 			align-items: center;
 			align-content: center;
 
-			div#title {
+			h1 {
+				margin: 0;
 				color: $heading-font-color;
 				font-size: 5vh;
 				font-weight: bold;
