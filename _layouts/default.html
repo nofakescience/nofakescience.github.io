@@ -1,7 +1,7 @@
 ---
 ---
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang }}">
 	{% include head.html %}
 	<body>
 		{% include header.html %}
@@ -10,7 +10,7 @@
 				{% include form.html %}
 			</aside>
 			<main>
-				<article id="{{page.id}}">
+				<article id="{{ page.id }}">
 					{{ content }}
 				</article>
 			</main>
