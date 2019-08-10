@@ -3,6 +3,11 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	{% seo %}
+	<!-- Custom SEO tag -->
+	<title>{% translate page.title %} | {{ site.title }}</title>
+	<meta property="og:title" content="{% translate page.title %}" />
+	<meta property="twitter:title" content="{% translate page.title %}" />
+	<!-- End custom SEO tag -->
 
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | absolute_url }}" type="text/css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600" type="text/css">
