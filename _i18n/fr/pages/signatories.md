@@ -1097,6 +1097,7 @@
 0. Charpak Yves - Médecin de santé publique, épidémiologiste
 0. Charpentier Maxime - Étudiant-ingénieur
 0. Charrasse Jean-Pierre - Agriculteur
+0. Charrel Magali - Citoyenne
 0. Charrier Thibaud - Ingénieur en informatique
 0. Charron Lucas - Étudiant, futur ingénieur
 0. Charroy Jacques - Géophysicien
@@ -1501,7 +1502,6 @@
 0. Delmotte Bernard - Ingénieur, agrégé de physique appliquée
 0. Delobre Thomas - Animateur 3D
 0. Deloge Richard - Développement informatique
-0. Delorme Jean - Citoyen
 0. Delorme Ludovic - Enseignant
 0. Delorme Romain - Sans profession
 0. Delot Eric - Dessinateur industriel
@@ -2035,8 +2035,8 @@
 0. Gardey Laure - Technicienne de laboratoire médical
 0. Gardien Gaëtan - Data analyst
 0. Gareil Anne - Retraitée
-0. Garnaud Stephane - Musicien
 0. Garnaud Stéphane - Musicien
+0. Garncarzyk Dimitri - Docteur en littérature comparée
 0. Garnier Frédéric - Ouvrier viticole
 0. Garnier Manuel - Contrôleur non destructif
 0. Garnier Rémy - Doctorant
@@ -2817,7 +2817,7 @@
 0. Le Joubioux Antoine - Pharmacien
 0. Le Lez Victor - Étudiant
 0. Le Mellec Pierre - Étudiant
-0. Le Métayer Alain - DEA neurosciences, prof de SVT
+0. Le Métayer Alain - DEA de neurosciences, professeur de SVT
 0. Le Mouée Joris - Étudiant ingénieur chimiste
 0. Le Moullec Thomas - Ingénieur d'études / phytopathologiste
 0. Le Normand Vincent - Ingénieur Logiciel
@@ -2842,7 +2842,7 @@
 0. Lebrun Dominique - Journaliste
 0. Lebrun Nicolas - Journaliste
 0. Lebrun Tanguy - Étudiant en master biochimie structurale
-0. lecarpentier jeremy - Étudiant
+0. Lecarpentier Jeremy - Étudiant
 0. Lecert Arthur - Étudiant
 0. Lechable Romain - Ingénieur
 0. Lechaux Lucas - Étudiant en médecine
