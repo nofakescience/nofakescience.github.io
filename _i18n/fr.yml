@@ -21,3 +21,7 @@ pages:
     title: "Signataires"
   tribune:
     title: "Tribune"
+  index:
+    title: "Index"
+  404:
+    title: "Page inconnue"

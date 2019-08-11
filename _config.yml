@@ -44,3 +44,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-multiple-languages-plugin
   - jekyll-admin
+  - jekyll-redirect-from

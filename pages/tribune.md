@@ -3,7 +3,7 @@ id: tribune
 layout: page
 title: pages.tribune.title
 display-title: false
-permalink: /tribune/
+permalink: /tribune
 button: true
 order: 1
 ---

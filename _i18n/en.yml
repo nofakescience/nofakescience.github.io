@@ -21,3 +21,7 @@ pages:
     title: "Signatories"
   tribune:
     title: "Op-ed"
+  index:
+    title: "Index"
+  404:
+    title: "Unknown Page"

@@ -35,6 +35,8 @@ GEM
       sinatra-contrib (~> 1.4)
     jekyll-multiple-languages-plugin (1.6.0)
       jekyll (>= 2.0, < 4.0)
+    jekyll-redirect-from (0.15.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
@@ -90,6 +92,7 @@ DEPENDENCIES
   jekyll (~> 3.7.4)
   jekyll-admin
   jekyll-multiple-languages-plugin
+  jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data

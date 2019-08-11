@@ -7,6 +7,9 @@
 	<title>{% translate page.title %} | {{ site.title }}</title>
 	<meta property="og:title" content="{% translate page.title %}" />
 	<meta property="twitter:title" content="{% translate page.title %}" />
+	{% if page.url == "/404" %}
+  	<meta http-equiv="refresh" content="5; url=/">
+  {% endif %}
 	<!-- End custom SEO tag -->
 
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | absolute_url }}" type="text/css">
