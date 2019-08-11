@@ -4,15 +4,15 @@ L'initiative d’écrire notre tribune et de regrouper ses rédacteurs en collec
 
 La tribune #NoFakeScience a été rédigée par 20 auteur·trice·s indépendant·e·s de toute pression politique et/ou industrielle.
 
-Pour plus d’informations, nous vous renvoyons à notre page [“Qui sommes-nous”]().
+Pour plus d’informations, nous vous renvoyons à notre page [“Qui sommes-nous”](https://nofake.science/a-propos).
 
 #### De qui est-il composé ?
 Le collectif #NoFakeScience est composé de 20 personnes issues de différentes formations et exerçant dans des domaines variés, mais ayant tou.te.s en commun d’exercer un métier scientifique (chercheur·se, ingénieur·e, *etc*.) ou en rapport avec la science (vulgarisateur·rice, gestionnaire de l’information, *etc*.).
 
-Vous pouvez retrouver leurs profils dans la section [“Présentation des membres”](https://nofake.science/about).
+Vous pouvez retrouver leurs profils dans la section [“Présentation des membres”](https://nofake.science/membres).
 
 #### Comment soutenir le collectif No Fake Science ?
-Vous pouvez soutenir le collectif en signant la [tribune #NoFakeScience](https://nofake.science//tribune/) et en la partageant autour de vous ainsi qu’en partageant les contenus qu’il publie sur son [compte Twitter](https://twitter.com/nofake_science) ainsi que sur sa [page Facebook](https://www.facebook.com/CollectifNoFakeScience).
+Vous pouvez soutenir le collectif en signant la [tribune #NoFakeScience](https://nofake.science/tribune) et en la partageant autour de vous ainsi qu’en partageant les contenus qu’il publie sur son [compte Twitter](https://twitter.com/nofake_science) ainsi que sur sa [page Facebook](https://www.facebook.com/CollectifNoFakeScience).
 
 <br/>
 
