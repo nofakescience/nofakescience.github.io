@@ -2,8 +2,12 @@
 id: members
 layout: page
 title: pages.members.title
+
+namespace: members
+permalink: /membres
+permalink_en: /members
+
 display-title: true
-permalink: /members
 button: true
 order: 4
 ---

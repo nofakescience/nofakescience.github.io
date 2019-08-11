@@ -7,8 +7,8 @@
 				<img src="{{ "/assets/img/logo_no_fake_science.svg" | absolute_url }}" />
 			</div>
 			<div id="top-right">
-				<a href="{{ site.baseurl_root }}{{ page.url}}"><i class="flag-icon flag-icon-fr"></i></a>
-				<a href="{{ site.baseurl_root }}/en{{ page.url}}"><i class="flag-icon flag-icon-us"></i></a>
+				<a href="{{ site.baseurl_root }}{% translate_link {{ page.namespace }} fr %}"><i class="flag-icon flag-icon-fr"></i></a>
+				<a href="{{ site.baseurl_root }}{% translate_link {{ page.namespace }} en %}"><i class="flag-icon flag-icon-us"></i></a>
 			</div>
 		</div>
 		<nav>

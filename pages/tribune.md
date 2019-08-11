@@ -2,8 +2,12 @@
 id: tribune
 layout: page
 title: pages.tribune.title
-display-title: false
+
+namespace: tribune
 permalink: /tribune
+permalink_en: /tribune
+
+display-title: false
 button: true
 order: 1
 ---
