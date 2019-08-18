@@ -1,4 +1,4 @@
-{% include_relative oped-writers.md %}
+{% include_relative op-ed-writers.md %}
 
 {% include_relative signatories-pre-publication.md %}
 
