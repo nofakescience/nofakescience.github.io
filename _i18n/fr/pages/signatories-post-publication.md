@@ -59,6 +59,7 @@
 0. Amill Raymond - Ingenieur  
 0. Amine Marwan - Étudiant en CPGE  
 0. Ammirati Thierry - Professeur de physique  
+0. Amory Guillaume - Étudiant  
 0. Amoyal Mary - Doctorante  
 0. Amsellem Yves - Ingénieur  
 0. Ancel Alexandre - Artiste 3D  
@@ -322,6 +323,7 @@
 0. Beignet Julien - Docteur  
 0. Beilvert Robin - Ingénieur  
 0. Belhomme Hugo - Étudiant ingénieur, futur doctorant  
+0. Bélisle Martin - Cuisinier  
 0. Belkacemi Mehdi - Externe en médecine  
 0. Belkhir Nacim - Chercheur  
 0. Bellamy Clément - Docteur en archéologie  
@@ -343,6 +345,7 @@
 0. Benac Nicolas - Technicien  
 0. Benamou Norbert - Ingénieur  
 0. Bendrihem Gregory - Assistant operateur  
+0. Bendriss Torres Alexandre - Étudiant  
 0. Benenson Rodrigo - Chercheur en robotique et informatique  
 0. Benfrid Souheyla - Vétérinaire docteur en virologie  
 0. Benguerraiche Mohamed - Juriste  
@@ -415,12 +418,14 @@
 0. Bertin Frédéric - Ingénieur informaticien  
 0. Berton Luc - Ingénieur en informatique  
 0. Bes Valentin - Ingénieur génie civil - structure des bâtiments  
+0. Besancon Claire - Doctorant  
 0. Bescher Olivier - Technicien en électronique, robotique, électrotechnique, sécurité électronique  
 0. Besoli Corentin - Économiste  
 0. Besse Camille - Docteur en intelligence artificielle  
 0. Besse François - Kinésithérapeute  
 0. Besse Julien - Étudiant  
 0. Besse Philippe - Ingénieur informatique  
+0. Besserve Pauline - Étudiante en physique  
 0. Besson Florent - Étudiant  
 0. Besson Sylvain - Étudiant / futur chercheur en histoire médiéval  
 0. Bestetti Thomas - Assistant ingénieur de recherche  
@@ -691,6 +696,7 @@
 0. Brevet Kodo - Ingénieur chimiste  
 0. Brevet Olivier - Juriste en droit communautaire  
 0. Briand Mael - Ingénieur, doctorant en pharmacie  
+0. Brichart Thomas - Docteur en nanotechnologies  
 0. Brillault Marc - Développeur  
 0. Brion Quentin - Expert en ingénierie de production  
 0. Briscese Florent - Ingénieur en radioprotection  
@@ -726,6 +732,7 @@
 0. Brunier Jordan - Informaticien  
 0. Brunner Léonard - Étudiant  
 0. Brunner Nicolas - Citoyen  
+0. Brunot Jacques - Médecin, spécialiste de médecine interne et de cancérologie  
 0. Brunstein-Laplace Timothee - Ingenieur biotechnologiste  
 0. Brusse Théo - Etudiant en agronomie  
 0. Brut Jean-François - Consultant  
@@ -860,6 +867,7 @@
 0. Catin Jean-Michel - Journaliste spécialisé enseignement supérieur et recherche  
 0. Catinaud Benjamin - Étudiant  
 0. Catusse Maryvonne - Conseiller emploi  
+0. Caubin Françoise - Éducation populaire  
 0. Caudal Dorian - Docteur en neurosciences  
 0. Causse Sebastien - Chercheur post-doctorant en biologie moléculaire  
 0. Cavagné Arthur - Enseignant  
@@ -878,6 +886,7 @@
 0. Chabane Sonia - Étudiante en sciences politiques  
 0. Chabannas Audrey - Citoyenne  
 0. Chabaud Marie-Gaël - Préparatrice en pharmacie  
+0. Chabot Agnès - Médecin  
 0. Chabré Quentin - Étudiant  
 0. Chadly Wahbi - Masseur kinésithérapeute  
 0. Chaigneau Yanis - Étudiant ingénieur  
@@ -924,6 +933,7 @@
 0. Charpak Yves - Médecin de santé publique, épidémiologiste  
 0. Charpentier Maxime - Étudiant-ingénieur  
 0. Charrasse Jean-Pierre - Agriculteur  
+0. Charrazac Isabelle - Aide-soignante  
 0. Charrel Magali - Citoyenne  
 0. Charriau Violaine - Médecin psychiatre  
 0. Charrier Thibaud - Ingénieur en informatique  
@@ -943,6 +953,7 @@
 0. Chaume Jacques - Ingénieur agronome  
 0. Chaumery Emmanuel - Consultant  
 0. Chaumont Félix - Ingénieur agronome  
+0. Chaumont François - Professeur à l'UCLouvain  
 0. Chaumont Olivier - Viticulteur  
 0. Chaumont Philippe - Professeur des Universités, directeur de recherche CNRS retraité  
 0. Chauveau Aurélie - Gérante restauration  
@@ -1228,6 +1239,7 @@
 0. Dasinieres Daniel - Retraité hotellerie / galvanoplastie  
 0. Dasinieres-Jandelle Denise - Retraitée  
 0. Dastillung Bruno - Technicien de recherche  
+0. Dattée Yvette - Docteur en génétique  
 0. Daudin Jean-Paul - Ingénieur  
 0. Dautremay Yves - Ingénieur informatique  
 0. Dautry Côme - Étudiant  
@@ -1275,6 +1287,7 @@
 0. De Myttenaere Arnaud - Ingénieur  
 0. De Myttenaere Michèle - Architecte  
 0. De Naurois Gaëlle - Chargée de mission Recherche et Culture Scientifique  
+0. De Paepe Isabelle - Ingénieur en agro-environnement  
 0. de Préaumont Hugues - Ingénieur  
 0. de Rivoire Louis - Planneur stratégique  
 0. de Saint Leger Isabelle - Ingénieur agro-alimentaire  
@@ -1312,6 +1325,7 @@
 0. Degiorgio Kevin - Docteur en astrophysique, ingénieur valorisation  
 0. Degot Longhi Yoann - Astronome amateur  
 0. Degoute Encolpe - Informaticien  
+0. Degré Mathieu - Étudiant en mathématiques  
 0. Degreef Michael - Sans emploi  
 0. Dehondt Anthony - Étudiant en chimie des matériaux pour l'énergie et l'environnement  
 0. Dehu Virgile - Cuisinier  
@@ -1381,6 +1395,7 @@
 0. Demanie Sylvain - Professeur  
 0. Demarly Quentin - Ingénieur chimiste  
 0. Demay Bernard - Médecin  
+0. Demblon Anne France - Psychologue et psychothérapeute  
 0. Demeulemeester Samuel - Journaliste  
 0. Demissy Ludovic - Développeur  
 0. Demoreuille Denis - Citoyen  
@@ -1411,6 +1426,7 @@
 0. Derouard Stephane - Medecin généraliste  
 0. Derougy Bertrand - Ingénieur chimiste  
 0. Derozard Jérôme - Entrepreneur  
+0. Derveaux Daniel - Étudiant en informatique  
 0. Dervieux Thomas - Artiste imprimeur  
 0. des Pommare Charles - Étudiant  
 0. Desaintmartin Axel - Étudiant, président de Fédélor - fédération étudiante de Lorraine  
@@ -1566,6 +1582,7 @@
 0. Dullier Dorian - Kinésitherapeute  
 0. Dulompont Chloé - Étudiante en mathématiques  
 0. Dulong Rémi - Doctorant en informatique  
+0. Dulouard Jessica - Éducatrice spécialisée  
 0. Dumaitre Eric - Enseignant  
 0. Dumarski Pierre - Citoyen  
 0. Dumas Clément - Éducateur  
@@ -1600,6 +1617,7 @@
 0. Durand Anne - Ingénieur agronome  
 0. Durand Aurore - Statisticienne  
 0. Durand Bernard - Retraité  
+0. Durand Florian - Professeur de mathématiques  
 0. Durand Guillaume - Ingénieur  
 0. Durand Jean-Philippe - Directeur des contenus  
 0. Durand Juliette - Ingénieure agronome  
@@ -1691,6 +1709,7 @@
 0. Faille Frederic - Juriste  
 0. Falchi Anne - Ingénieur  
 0. Falco Adrien - Orthoptiste  
+0. Falcou Joel - Maitre de conférences HDR  
 0. Falkenrodt Alexandre - Étudiant en médecine  
 0. Falkowicz Séverine - Maître de conférences  
 0. Fallet Amandine - Ingénieur sûreté nucléaire  
@@ -1944,6 +1963,7 @@
 0. Garreau Rémy - Vulgarisateur, blogger, auteur  
 0. Garrigue Laurent - Citoyen  
 0. Garrigues Julien - Étudiant en science de la terre et de l'environnement  
+0. Garsmeur Alexis - Étudiant  
 0. Gartner Corentin - Ingénieur  
 0. Gary Mireille - Documentaliste IST  
 0. Gaspard Sébastien - Ingénieur chercheur en informatique  
@@ -2019,6 +2039,7 @@
 0. Ghossoub Antoine - Docteur en pharmacie - affaires règlementaires  
 0. Ghyselinck Maxime - Ingénieur systémicien  
 0. Giacomini Vincent - Ingénieur  
+0. Giardino Jean-Louis - Vétérinaire  
 0. Giaroli Pascal - Superviseur en relation client  
 0. Gibier Antoine - Apprenti ingénieur en cyberdéfense  
 0. Giely Fabien - Ingénieur en informatique  
@@ -2068,6 +2089,7 @@
 0. Gochgarian Pierre - Commercial  
 0. Godard Max - Étudiant  
 0. Godard Pierre-Henri - Technicien soudeur  
+0. Godard Raphael - Citoyen  
 0. Godde Raphaël - Ingénieur aérospatial  
 0. Godec Kevin - Ingénieur mathématiques appliquées  
 0. Godelle Nicolas - Ingénieur  
@@ -2350,6 +2372,7 @@
 0. Hicquel Nicolas - Médecin généraliste  
 0. Hidé Vivien - Étudiant  
 0. Hillaire Benoit - Ingénieur / inspecteur à EDF  
+0. Hillairet Julien - Ingénieur de recherche physique des plasmas et radiofréquences  
 0. Himmelspach Gilles - Enseigant de sciences industrielles  
 0. Himont Caroline - Enseignante  
 0. Hinzelin Annick - Docteure en pharmacie  
@@ -2531,7 +2554,7 @@
 0. Kerhervé Anthony - Agriculteur  
 0. Kersten Roland - Horticulteur  
 0. Kettani Maryem - Médecin  
-0. Khedjam Teva - Chef d'entreprise  
+0. Khedjam Teva-Jan - Ingénieur informatique  
 0. Kherchouche Rémy - Citoyen  
 0. Khettabi Kamil - Étudiant en mathématiques  
 0. Kieffer Hugo - Étudiant  
@@ -2667,6 +2690,7 @@
 0. Laout Ludivine - Citoyenne  
 0. Lapadu Hargues Luc - Enseignant mathématiques  
 0. Lapassat Camille - Pharmacien  
+0. Lapeyronie Jean Patrick - Médecin  
 0. Lapierre Élodie - Chargée d'étude en toxicologie santé environnement  
 0. Lapierre Emmanuel - Consultant en amélioration continue  
 0. Laporte Bruno - Ingénieur en génie mécanique aéronautique  
@@ -2891,11 +2915,13 @@
 0. Lemoal Paul - Kinésithérapeute  
 0. Lemoine Franck - Ingénieur mécanique  
 0. Lemoine Joseph - Développeur freelance  
+0. Lemoine Nicolas - Étudiant  
 0. Lemoine Thérèse - Professeure des écoles  
 0. Lemosquet Florian - Ingenieur fonctionnement nucléaire  
 0. Lenain Cyril - Doctorant en physique nucléaire  
 0. Lennon Stéphanie - Citoyen  
 0. Lenoir Valérie - Employée de bureau  
+0. Lenormand Pierre - Responsable de projets, ingénieur en informatique  
 0. Lenouvel Fabian - Formateur combustible et déchets nucléaires  
 0. Leocmach Mathieu - Chargé de recherche au CNRS (physique)  
 0. Leonard Alexandre - Étudiant en pharmacie  
@@ -3086,6 +3112,7 @@
 0. Manenti Nicolas - Artiste  
 0. Maneuvrier-Hervieu Paul - Doctorant histoire économique  
 0. Manfré Anne - Fonctionnaire territoriale  
+0. Mangel Paul - Doctorant  
 0. Mangin Willy - Diététicien-nutritionniste  
 0. Mansard Guillaume - Étudiant en Master  
 0. Manson Julien - Étudiant  
@@ -3256,6 +3283,7 @@
 0. Mehta Devang - Chercheur post-doctoral  
 0. Meistermann Dimitri - Doctorant  
 0. Méjean Olivier - Enseignant physique chimie (SNT et NSI)  
+0. Melaine Philippe - Vulgarisateur  
 0. Meler Antoine - Ingénieur  
 0. Melier Ludovic - Enseignant en économie gestion en lycée professionnel  
 0. Melin Olivier - Directeur coopérative agricole  
@@ -3318,6 +3346,7 @@
 0. Michaux Erwan - Cheminot (chimiste de formation)  
 0. Michel Antoine - Lycéen  
 0. Michel Fabio - Étudiant  
+0. Michel Jérôme - Ingénieur  
 0. Michel Laurent - Ingénieur X Mines  
 0. Michel Olivier - Responsable informatique  
 0. Michel Thibault - Doctorant en optique quantique  
@@ -3893,6 +3922,7 @@
 0. Prost Corentin - Ingénieur  
 0. Proust Jean-François - Ingénieur agronome en retraite  
 0. Provost David - Docteur en chimie  
+0. Prudent Jean Pierre - Compositeur  
 0. Prulière Valentin - Informaticien  
 0. Prunier Julien - Citoyen  
 0. Pruvost Anne - Juriste  
@@ -4040,6 +4070,7 @@
 0. Rigoureau Morgan - Chargé de recrutement  
 0. Riguelle Christophe - Citoyen  
 0. Rimbaud Pierre - Médecin  
+0. Rimet Marie-Laure - Retraitée  
 0. Rincel Maximilien - Gestionnaire paie  
 0. Rio Morgan - Photographe  
 0. Rio Sana-Malory - Professeure d'anglais  
@@ -4095,6 +4126,7 @@
 0. Rodrigues Thomas - Employé de commerce  
 0. Rodriguez Michel - Consultant  
 0. Rodriguez Yoann - Ingénieur en Microbiologie  
+0. Roehrig Corinne - Médecin  
 0. Roger Hugo - Étudiant  
 0. Roger Jean-Charles - Docteur en génie logiciel  
 0. Rogez Alain - Ingénieur  
@@ -4103,6 +4135,7 @@
 0. Roland Aude - Docteur  
 0. Roland Benjamin - Ingénieur en micro-électronique  
 0. Rolhion Loïc - Citoyen  
+0. Rolland Gwen - Monteuse vidéo  
 0. Rolland Julien - Docteur en didactique des disciplines scientifiques - fondateur école de code pour enfants/ados  
 0. Rollet Julien - Ingénieur en informatique  
 0. Rollot Jérémie - Consultant santé au travail  
@@ -4796,6 +4829,7 @@
 0. Yager Alex - Dessinateur  
 0. Yates Frank - Enseignant-chercheur  
 0. Yee Lorenzo - Ingénieur matériaux  
+0. Yeganefar Nima - Enseignant-chercheur  
 0. Yeme Pierre-Yves - Ingénieur agronome  
 0. Yesilaltay Sacha - Doctorant  
 0. Yiao Marcel - Docteur en chimie et matériaux  
