@@ -718,6 +718,7 @@
 0. Brodbeck Vincent - Ingénieur  
 0. Brondeau Victor - Étudiant Ingénieur  
 0. Brongniart Alexandre - Ingénieur  
+0. Bros Alexandre - Automation manager  
 0. Brossard Pascale - Citoyenne  
 0. Brossard Thomas - Ingénieur  
 0. Brosse Baptiste - Actuaire  
@@ -1050,6 +1051,7 @@
 0. Coat Maryvonne - Enseignante  
 0. Cobigo Xavier - Ingénieur  
 0. Cocquempot Clément - Ingénieur en informatique  
+0. Cocula Xavier - Pharmacien  
 0. Coelho Ophélie - Responsable produit  
 0. Coetmeur Alain - Ingénieur  
 0. Cœur Christel - Développeuse informatique  
@@ -1084,6 +1086,7 @@
 0. Combes Julien - Étudiant  
 0. Combret Yves - Chimiste  
 0. Comoglio Yannick - Docteur en biologie  
+0. Compagnon Philippe - Médecin pédiatre  
 0. Compain Pierre-Antoine - Enseignant  
 0. Comte Alicia - Pharmacien  
 0. Constant Julien - Citoyen  
@@ -1541,6 +1544,7 @@
 0. Doussaud Antoine - Pilote d’essais  
 0. Doussot Grégory - Informaticien  
 0. Douveneau Arnaud - Ingénieur  
+0. Douzi Hassan - Enseignant-chercheur en mathematiques  
 0. Doyen Raphaël - Consultant en design  
 0. Draperon Victorien - Chargé de recrutement  
 0. Drault Ulric - Apiculteur  
@@ -2205,6 +2209,7 @@
 0. Grolleau Samuel - Professeur de technologie  
 0. Gros Guillaume - Interne en médecine  
 0. Grosbois Arnaud - Agriculteur  
+0. Grosjean Antoine - Docteur en science  
 0. Grosmann Michel - Professeur universitaire en photonique  
 0. Groulard Alain - Pharmacien  
 0. Gruchy Olivier - Masseur kinésithérapeute  
@@ -2441,6 +2446,7 @@
 0. Humphrey Jay - Vulagrisateur  
 0. Husser Matthieu - Étudiant ingénieur  
 0. Hutin Gregory - Négoce de matières premières  
+0. Huvier-Boutin Sophie - Agronome  
 0. Huyghues-Beaufond Alexandre - Cadre supérieur de la fonction publique  
 0. Hypolite Hervé-Pierre - Agriculteur  
 0. Idir Olivier - Étudiant  
@@ -3414,6 +3420,7 @@
 0. Mirou Antoine - Ingénieur informatique  
 0. Misserey Fabienne - Docteur  
 0. Mitjavile Nina - Vigneronne  
+0. Mitre Dominique - Cadre technique  
 0. Mohr Catherine - Statistiques  
 0. Moinard Maxime - Agriculteur ingénieur agricole  
 0. Moine Christophe - Ingénieur  
@@ -3534,6 +3541,7 @@
 0. Nauleau Frédéric - Chef d'entreprise  
 0. Nauleau Maxime - Étudiant en communication  
 0. Navarro Anthony - Consultant sécurité informatique  
+0. Navarro Julien - Ingénieur  
 0. Naveau Geoffrey - Vulgarisateur  
 0. Naye Florian - Kinésithérapeute, chercheur  
 0. Neau Elizabeth - Syndicaliste CFE-CGC énergies  
@@ -3683,6 +3691,7 @@
 0. Pascuzzi Eliseo - Étudiant  
 0. Pasqualini Raphaël - Astronome amateur, vulgarisateur  
 0. Pasquiet Éric - Ingénieur  
+0. Patard Hervé - Agriculteur  
 0. Patard Rudy - Ex-doctorant, chercheur indépendant  
 0. Pateau Amand - Docteur  
 0. Patout Pierre-André - Doctorant  
@@ -4579,6 +4588,7 @@
 0. Thuillier Pauline - Ingénieure informatique  
 0. Tiano Pierre-Yves - Médecin  
 0. Tieo Sonia - Diplômée Master 2 bio-informatique  
+0. Tillet Arnaud - Étudiant  
 0. Tilman Isabelle - Gestionnaire de projets informatiques  
 0. Tilmont Yoan - Masseur kinésithérapeute  
 0. Tilquin Anaïs - Chercheuse  
