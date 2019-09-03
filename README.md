@@ -27,15 +27,11 @@ docker-compose up -d serve
 
 # Génération du site
 ```bash
-jekyll build
+bundle exec jekyll serve --livereload --watch --force_polling --trace -V
 ```
 ou
 ```bash
-docker run --rm -it -v $PWD:/srv/jekyll:rw jekyll/builder jekyll build
-```
-ou
-```bash
-docker-compose up build
+bundle exec jekyll build -d ../master
 ```
 
 # Documentation d'ajout et modification de contenu
