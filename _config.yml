@@ -7,6 +7,8 @@ baseurl: ""
 logo: /assets/img/logo_no_fake_science.svg
 lang: fr_FR
 
+include: [".nojekyll"]
+
 # jekyll-multiple-languages-plugin settings
 languages: ["fr","en"]
 
