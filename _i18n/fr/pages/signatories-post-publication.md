@@ -614,6 +614,7 @@
 0. Bouet Romain - Ingénieur de recherche  
 0. Bougnoux Constance - Étudiante en médecine  
 0. Bouillard Romain - Développeur Web  
+0. Bouillet Bernard - Retraité  
 0. Bouillet Laurence - Professeur en médecine interne / immunologie clinique  
 0. Bouillet Léa - Enseignante  
 0. Bouillon Emmanuel - Développeur  
@@ -729,6 +730,7 @@
 0. Bruguier Alexandre - Étudiant ingénieur  
 0. Brun Caroline - Designer  
 0. Brun Émilien - Étudiant  
+0. Brun Jean - Médecin  
 0. Brun Mélanie - Ingénieure d'étude  
 0. Brun Nicolas - Entrepreneur  
 0. Brunet Gauthier - Concepteur de jeux  
@@ -1253,6 +1255,7 @@
 0. Darot Patrick - Agriculteur, responsable agricole  
 0. Darraux Lionel - Chargé de mission développement durable  
 0. Darraux Sylvie - Citoyenne  
+0. Darriere Tommy - Chercheur en biologie moléculaire  
 0. Dartige Thomas - Étudiant  
 0. Dartinet Florent - Musicien  
 0. Dasinieres Daniel - Retraité hotellerie / galvanoplastie  
@@ -1275,6 +1278,7 @@
 0. David Nicolas - Chercheur en biologie  
 0. David Nicolas - Enseignant  
 0. David Pierre - Médecin généraliste  
+0. David Sylvain - Enseignant  
 0. David Yann - Technicien informatique  
 0. David-Sivelle Paul - Développeur informatique  
 0. De Araujo Liliane - Associée de recherche clinique  
@@ -1327,6 +1331,7 @@
 0. Debris Margot - Étudiante en biologie santé  
 0. Debu Thierry - Ingénieur  
 0. Debus Emilie - Décoratrice cinéma  
+0. Debuysere Mathieu - Fonctionnaire  
 0. Debuysère Mathieu - Agent d'accueil  
 0. Décaillet Valentin - Ingénieur  
 0. Decoeur Perrine - Étudiante en biologie  
@@ -1387,6 +1392,7 @@
 0. Delepinne Didier - Employé  
 0. Deleplace Baptiste - Chef d'entreprise  
 0. Deleporte Bertrand - Enseignant  
+0. Delestrée Nicolas - Biologiste  
 0. Deleuze Anaïs - Orthophoniste et professionnelle de recherche  
 0. Deleyrolle Franck - Animateur de débats, Master informations / communication  
 0. Delhaye Sébastien - Doctorant en neurobiologie  
@@ -1441,6 +1447,7 @@
 0. Déprez Antoine - Ingénieur en informatique  
 0. Déprez Luc - Consultant en logiciels  
 0. Depriester Alan - Étudiant en biologie  
+0. Deragon Jean-Marc - Professeur des Universités  
 0. Derambure Alban - Étudiant en école d'ingénieur  
 0. Derat Etienne - Maître de conférences  
 0. Dereeper Ludovic - Sysadmin / netadmin  
@@ -1642,6 +1649,7 @@
 0. Durand Alain - Docteur (ONERA / mécanique des fluides)  
 0. Durand Anne - Ingénieur agronome  
 0. Durand Aurore - Statisticienne  
+0. Durand Bastien - Ingénieur optronique  
 0. Durand Bernard - Retraité  
 0. Durand Florian - Professeur de mathématiques  
 0. Durand Guillaume - Ingénieur  
@@ -1658,6 +1666,7 @@
 0. Durix Bastien - Chercheur post-doctoral en informatique  
 0. Duroc André - Retraité  
 0. Duroc Celine - Ingénieur agronome  
+0. Durot Pascal - Ingénieur agronome  
 0. Duroux Sébastien - Étudiant en médecine  
 0. Durville Léandre - Étudiant  
 0. Dusic Eloïse - Ingénieure  
@@ -2037,6 +2046,7 @@
 0. Gellez Olivier - Délégué à la protection des données  
 0. Gellie Gabriel - Médecin  
 0. Générau François - Doctorant en mathématiques  
+0. Genet Aurelie - Graphiste  
 0. Genilleau Sébastien - Comptable  
 0. Genillier Guillaume - Ingénieur du bâtiment  
 0. Genin Aurélien - Étudiant  
@@ -2347,6 +2357,8 @@
 0. Haunreiter Katja - Professeure HES-SO  
 0. Hauquiert Christophe - Ingénieur télécom  
 0. Havas Adrien - Ingénieur en informatique  
+0. Havette Julien - Doctorant  
+0. Hay Xavier - Agriculteur  
 0. Héberlé Nicolas - Masseur-kinésithérapeute  
 0. Hebert Benoit - Chef d'entreprise  
 0. Hebert Dorian - Électromécanicien  
@@ -2998,6 +3010,7 @@
 0. Lesquerbaiult Benoît - Ingénieur statisticien, vulgarisateur  
 0. Lestra Nicolas - Étudiant en physique  
 0. Lestrade Laurent - Administrateur systèmes et réseaux  
+0. Letaillieur Charles - Édition scientifique ouverte  
 0. Letellier Anne - Professeur  
 0. Lethuillier Nicolas - Ingénieur informatique  
 0. Letoqueux Ronan - Producteur audiovisuel  
@@ -3571,6 +3584,7 @@
 0. Nguyen Clément - Étudiant  
 0. Nguyen Frédéric - Professionnel du monde agricole  
 0. Nguyen Thierry - Médecin  
+0. Nguyen Dinh Julien - Ingénieur  
 0. Nguyen-Phuoc Yan - Ingénieur informaticien  
 0. Niay Guillaume - Ingénieur recherche operationnelle  
 0. Nicod Johann - Docteur en mathématique, ingénieur pédagogique  
@@ -3776,6 +3790,7 @@
 0. Perruchon Romain - Ingénieur innovation  
 0. Peruez Remi - Citoyen  
 0. Pesci Téo - Étudiant en psychologie  
+0. Pétat Hugo - Ingénieur  
 0. Peter Rachel - Développeuse web  
 0. Peterlongo Sylvain - Kinésithérapeute / chercheur indépendant  
 0. Pethieu Romain - Ingénieur  
@@ -4003,6 +4018,7 @@
 0. Quiles Mickael - Ingénieur instrumentation process  
 0. Quilici Léa - Étudiante  
 0. Quilleré Corentin - Kinésithérapeute  
+0. Quinio Martine - Universitaire  
 0. Quintard Clément - Chercheur  
 0. Quintin François - Doctorant en chimie verte  
 0. Quirant Jérôme - Maître de conférences  
@@ -4057,6 +4073,7 @@
 0. Régnault Romain - Citoyen  
 0. Regnier Thomas - Kinésithérapeute  
 0. Reich François - Ingénieur en génie logiciel  
+0. Reichheld Jean-Philippe - Chercheur en biologie végétale  
 0. Reigner Tiphaine - Market technical support  
 0. Rejou-Mechain Thibault - Etudiant en ingénierie robotique  
 0. Rembaud Anne-Sophie - Infirmière  
@@ -4137,6 +4154,7 @@
 0. Rivet Nicolas - Community manager  
 0. Rivet Valentin - Contrôleur de gestion énergie verte  
 0. Rivon Jean - Retraité  
+0. Rizo Solène - Externe en médecine  
 0. Rizzi Emmanuel - Ingénieur en physique et agriculteur  
 0. Robaglia Christophe - Professeur de biologie, université Aix-Marseille  
 0. Robert Adrien - Étudiant  
@@ -4511,6 +4529,7 @@
 0. Sueur Yan - Militaire, passionné de sciences  
 0. Suire Simon - Ingénieur  
 0. Supiot Nicolas - Citoyen  
+0. Sureda Véronique - Technicien biologie végétale CNRS  
 0. Surzur Gwendal - Étudiant en médiation scientifique  
 0. Sutter Pierre Luc - Agronome humanitaire  
 0. Sutter Reto - Informaticien  
@@ -4529,6 +4548,7 @@
 0. Talmont Louis - Étudiant ingénieur  
 0. Talon Romain - Graphiste  
 0. Tamain Bernard - Ancien professeur d'université  
+0. Tamisier Bernard - Ingénieur puis agriculteur, retraité  
 0. Tan-Bouquet Michaël - Technicien méthodes d'industrialisation  
 0. Tancrez Victor - Étudiant  
 0. Tanet Antoine - Neuropsychologue  
