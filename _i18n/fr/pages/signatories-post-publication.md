@@ -756,6 +756,7 @@
 0. Buisson Gilles - Responsable de la sécurité des systèmes d'information  
 0. Buisson Virginie - Aide à la personne  
 0. Buj Nicolas - Étudiant ingénieur en physique  
+0. Bulot Lucien - Étudiant  
 0. Bunel Valérie - Mère au foyer  
 0. Buosi Guillaume - Graphiste  
 0. Burdet Benoît - Ingénieur en microtechnique  
@@ -839,6 +840,7 @@
 0. Caron Sylvère - Ingénieur calcul de structures  
 0. Carpentier Arnaud - Chercheur  
 0. Carpentier Greg - Vulgarisateur  
+0. Carpentier Marie-Christine - Ingénieure  
 0. Carpentier Mathilde - Journaliste  
 0. Carpentier Philippe - Médecin  
 0. Carrara Mathieu - Doctorant en biologie moléculaire  
@@ -901,6 +903,7 @@
 0. Chabot Agnès - Médecin  
 0. Chabré Quentin - Étudiant  
 0. Chadly Wahbi - Masseur kinésithérapeute  
+0. Chaffange Luc - Professeur  
 0. Chaigneau Yanis - Étudiant ingénieur  
 0. Chaillot Jerome - Analyste Programmeur  
 0. Chaine Quentin - Étudiant en Master de physique subatomique  
@@ -1331,7 +1334,6 @@
 0. Debris Margot - Étudiante en biologie santé  
 0. Debu Thierry - Ingénieur  
 0. Debus Emilie - Décoratrice cinéma  
-0. Debuysere Mathieu - Fonctionnaire  
 0. Debuysère Mathieu - Agent d'accueil  
 0. Décaillet Valentin - Ingénieur  
 0. Decoeur Perrine - Étudiante en biologie  
@@ -2045,6 +2047,7 @@
 0. Gélard Morgane - Étudiante  
 0. Gellez Olivier - Délégué à la protection des données  
 0. Gellie Gabriel - Médecin  
+0. Gendre Paolo - Étudiant  
 0. Générau François - Doctorant en mathématiques  
 0. Genet Aurelie - Graphiste  
 0. Genilleau Sébastien - Comptable  
@@ -2242,6 +2245,7 @@
 0. Guémann Matthieu - Kinésithérapeute, doctorant en neurosciences, rédacteur en chef adjoint Kinésithérapie la revue  
 0. Guénédal Alban - Ingénieur  
 0. Gueninchault Nicolas - Docteur en mécanique et matériaux  
+0. Guenivet Sylvain - Ingénieur  
 0. Guerault Aurore - Doctorante en biologie moléculaire végétale  
 0. Guerin Erwan - Élève ingénieur en énergie et environnement  
 0. Guérin Renaud - Ingénieur  
@@ -2702,6 +2706,7 @@
 0. Laine Janet - Enseignante retraitée  
 0. Lair Nicolas - Doctorant en intelligence artificielle  
 0. Laisné Simon - Étudiant  
+0. Lalande Jean-Paul - Ingénieur enseignant philosophie des sciences  
 0. Lalanne Sebastien - Ingénieur Telecom  
 0. Lalbin Xavier - Docteur en mecanique  
 0. Lallement Chantal - Infirmière  
@@ -2964,6 +2969,7 @@
 0. Lemesle Alexis - Étudiant en histoire de l'art  
 0. Lemesle Yvan - Pharmacien retraité  
 0. Lemoal Paul - Kinésithérapeute  
+0. Lemoine Fabien - Lycéen  
 0. Lemoine Franck - Ingénieur mécanique  
 0. Lemoine Joseph - Développeur freelance  
 0. Lemoine Nicolas - Étudiant  
@@ -3129,6 +3135,7 @@
 0. Magne Nathalie - Chercheur post-doctorant en neurosciences  
 0. Magnier Stéphane - Gestionnaire RH  
 0. Magnier Sylvain - Ingénieur logiciel  
+0. Magnouat André - Médecin  
 0. Magnouloux Bernard - Agrégé d'anglais  
 0. Mahay Vincent - Ingénieur  
 0. Mahe Boris - Integrateur Web  
@@ -3551,6 +3558,7 @@
 0. Mustiere Marc-Antoine - Technicien  
 0. Myard Emmanuel - Ergothérapeute  
 0. Nabli Adel - Étudiant ingénieur, master en intelligence artificielle  
+0. Nadal Yoann - Consultant  
 0. Nadalig Denis - Chirurgien-dentiste  
 0. Naffrechoux Pierre - Développeur web / Consultant Marketing  
 0. Naigeon Pierre-Baptiste - Développeur web  
@@ -3759,6 +3767,7 @@
 0. Pereira Cécile - Docteur en bioinformatique  
 0. Peres Eléonore - Docteure en biologie et communicante scientifique  
 0. Pérès Dimitri - Animateur scientifique au Muséum national d'Histoire naturelle  
+0. Pergrale Jean - Ancien directeur de recherche en imagerie médicale  
 0. Perhirin Antoine - Chercheur en chimie marine  
 0. Périce Denis - Étudiant  
 0. Périer Cynthia - Doctorante informatique / mathématiques appliquées  
@@ -4238,6 +4247,7 @@
 0. Rouquart Nicolas - Étudiant  
 0. Roure Clément - Ingénieur informatique  
 0. Rousseau Baptiste - Docteur en génie civil  
+0. Rousseau Batiste - Chercheur (planétologie)  
 0. Rousseau Gaetan - Développeur  
 0. Rousseau Indhi - Étudiant  
 0. Rousseau Valentin - Technicien supérieur  
@@ -4401,6 +4411,7 @@
 0. Scott Albert - Philosophe  
 0. Scribot Cyril - Ingénieur docteur  
 0. Sdaq Sara - Architecte  
+0. Sébastien Thiebaud - Ingénieur  
 0. Seelig Michel - Président conseil IUT de Metz  
 0. Segal Catherine - Journaliste  
 0. Ségaud François - Ingénieur  
@@ -4426,6 +4437,7 @@
 0. Sesetyan Dadjad - Psychologue du travail  
 0. Sevaistre François - Ingénieur  
 0. Severe Elodie - Ingénieure en biotechnologies  
+0. Seynhaeve Camille - Vulgarisateur  
 0. Sfez Arié - Ingénieur  
 0. Sgandurra Louis - Docteur en physique des particules  
 0. Sibony Olivier - Docteur en sciences de gestion, Professeur  
@@ -4786,6 +4798,7 @@
 0. Verlez Stéphanie - Dirigeant entreprise  
 0. Vernant Aline - Professeur  
 0. Verneau Dominique - Ingénieur Agricole  
+0. Vernet Élodie - Ingénieur matériaux - supply chain manager  
 0. Vernier Mélanie - Secrétaire  
 0. Verrgne Aymeric - Développeur  
 0. Verrier Aimé - Doctorant en physique  
