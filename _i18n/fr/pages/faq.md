@@ -9,7 +9,7 @@ Pour plus d’informations, nous vous renvoyons à notre page [“Qui sommes-nou
 #### De qui est-il composé ?
 Le collectif #NoFakeScience est composé de 20 personnes issues de différentes formations et exerçant dans des domaines variés, mais ayant tou.te.s en commun d’exercer un métier scientifique (chercheur·se, ingénieur·e, *etc*.) ou en rapport avec la science (vulgarisateur·rice, gestionnaire de l’information, *etc*.).
 
-Vous pouvez retrouver leurs profils dans la section [“Présentation des membres”](https://nofake.science/membres).
+Vous pouvez retrouver leurs profils dans la section [“Présentation des rédacteurs](https://nofake.science/writers).
 
 #### Comment soutenir le collectif No Fake Science ?
 Vous pouvez soutenir le collectif en signant la [tribune #NoFakeScience](https://nofake.science/tribune) et en la partageant autour de vous ainsi qu’en partageant les contenus qu’il publie sur son [compte Twitter](https://twitter.com/nofake_science) ainsi que sur sa [page Facebook](https://www.facebook.com/CollectifNoFakeScience).
