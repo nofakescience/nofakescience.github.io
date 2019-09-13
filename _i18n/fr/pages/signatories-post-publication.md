@@ -1301,6 +1301,7 @@
 0. de Lamotte Fred - Chercheur  
 0. De Lavilleon Gaetan - Docteur en neurosciences et co-fondateur de Cog’X  
 0. De Leeneer Gaëlle - Institutrice  
+0. De Lesquen Geoffroy - Agriculteur  
 0. de Maquillé Cyril - Ingénieur  
 0. de Maublanc Henri - Chef d’entreprise  
 0. De Maupeou Godefroy - Réalisateur  
@@ -1475,6 +1476,7 @@
 0. Desmazières Julien - Ingénieur agronome  
 0. Desmerger Fabrice - Aéro technicien  
 0. Desmon Myriam - DBA  
+0. Desmyttere Gaston - Agriculteur  
 0. Desnos Thierry - Chercheur en biologie moléculaire des plantes  
 0. Deson Nicolas - Étudiant  
 0. Désormeaux Jérémie - Service civique en environnement  
@@ -1814,6 +1816,7 @@
 0. Fillatre Pascal - Ouvrier agricole  
 0. Fillaudeau Maxime - Kinésithérapeute  
 0. Finart Jonas - Chef de projets en informatique  
+0. Finet Michel - Conseiller agronomique  
 0. Finné Jean-Paul - Informaticien  
 0. Fiolet Thomas - Étudiant en ingénierie / sciences  
 0. Fiorentino Bastien - Ingénieur  
@@ -2232,6 +2235,7 @@
 0. Gros Guillaume - Interne en médecine  
 0. Grosbois Arnaud - Agriculteur  
 0. Grosjean Antoine - Docteur en science  
+0. Grosjean François - Ingénieur agronome  
 0. Grosmann Michel - Professeur universitaire en photonique  
 0. Groulard Alain - Pharmacien  
 0. Gruchy Olivier - Masseur kinésithérapeute  
@@ -2380,6 +2384,7 @@
 0. Hennequin Emilie - Enseignant chercheur en gestion  
 0. Henneresse Baptiste - Étudiant en relations internationales  
 0. Henninger Marc - Vétérinaire industrie pharmaceutique  
+0. Hennion Bernard. - Ingénieur en retraite  
 0. Henocq Sandra - Docteur en médecine  
 0. Henriet Charlotte - Étudiante en thèse  
 0. Henrio Yoann - Citoyen  
@@ -2660,6 +2665,7 @@
 0. Labbe Cédric - Technicien du spectacle  
 0. Labbé Philippe - Docteur en sociologie  
 0. Labbé Valentin - Docteur en chirurgie dentaire  
+0. Labedan Aymeric - Étudiant  
 0. Labeyrie Raphaël - Étudiant  
 0. Labonne Thomas - Étudiant en philosophie  
 0. Labonté Chantal - Bibliothechnicienne  
@@ -2737,6 +2743,7 @@
 0. Laniesse Philippine - Élue locale  
 0. Lanneval Adrien - Étudiant  
 0. Lannier Sébastien - Préventeur  
+0. Lannoy Didier - Vulgarisateur  
 0. Lannoy Laurence - Enseignante  
 0. Lanot Pierre - Medecin  
 0. Lantieri Laurent - Professeur d’université chirurgien des hôpitaux  
@@ -2810,6 +2817,7 @@
 0. Lavier Eliott - Étudiant  
 0. Lavigne Benjamin - Médecin psychiatre  
 0. Lavoie-Gagnon Claudie - Médecin  
+0. Lavorel Claudine - Journaliste  
 0. Lawrens Grant - Comédien  
 0. Layani Julien - Technicien Informatique  
 0. Layet Nils - Ingénieur  
@@ -2907,6 +2915,7 @@
 0. Lecornu Fabrice - Enseignant  
 0. Lecornu Olivier - Professeur des écoles  
 0. Lécossais Adrien - Étudiant  
+0. Lecourt Jean-Daniel - Agriculteur  
 0. Lecourt Maxime - Informaticien  
 0. Lecoustre Alexandre - Ingénieur - Centrale Lille  
 0. Lecrenier Bernard - Médecin retraité, ancien collaborateur du "Journal du Médecin" (Belgique)  
@@ -3137,6 +3146,7 @@
 0. Magnier Sylvain - Ingénieur logiciel  
 0. Magnouat André - Médecin  
 0. Magnouloux Bernard - Agrégé d'anglais  
+0. Magnoux Pablo - Entrepreneur digital  
 0. Mahay Vincent - Ingénieur  
 0. Mahe Boris - Integrateur Web  
 0. Mahé François - Ingénieur-, doctorant en mécanique des matériaux  
@@ -3347,6 +3357,7 @@
 0. Méjean Olivier - Enseignant physique chimie (SNT et NSI)  
 0. Melaine Philippe - Vulgarisateur  
 0. Meler Antoine - Ingénieur  
+0. Méli Pascal - Vigneron  
 0. Melier Ludovic - Enseignant en économie gestion en lycée professionnel  
 0. Melin Olivier - Directeur coopérative agricole  
 0. Mellouk Amine - Chercheur  
@@ -3392,6 +3403,7 @@
 0. Meunier Jean-Philippe - Ingénieur en informatique  
 0. Meunier-Guttin-Cluzel Alain - Docteur en médecine  
 0. Meurlet Stéphane - Ingénieur  
+0. Mevaere Rémi - Professeur agrégé de physique  
 0. Meyer Anthony - Ingénieur logiciel  
 0. Meyer Claire-Lise - Docteur  
 0. Meyer Philippe - Physicien médical  
@@ -4027,6 +4039,7 @@
 0. Quiles Mickael - Ingénieur instrumentation process  
 0. Quilici Léa - Étudiante  
 0. Quilleré Corentin - Kinésithérapeute  
+0. Quillet Jean claude - Agriculteur  
 0. Quinio Martine - Universitaire  
 0. Quintard Clément - Chercheur  
 0. Quintin François - Doctorant en chimie verte  
@@ -4093,6 +4106,7 @@
 0. Renard Matthieu - Étudiant  
 0. Renard Nicolas - Ingénieur  
 0. Renaud Guillaume - Responsable reporting dans la gestion d'actifs  
+0. Renaud Hubert - Agriculteur  
 0. Renaud Martin - Gestionnaire  
 0. Renaud Mickaël - Étudiant  
 0. Renaud Sophie - Éducatrice  
@@ -4127,6 +4141,7 @@
 0. Richard Peter-Mikhaël - Physicien théorique et logicien promoteur de l'esprit critique  
 0. Richard Philippe - Docteur en chimie  
 0. Richard Simon - Citoyen  
+0. Richard Stéphane - Doctorant en neurosciences  
 0. Richard Thibault - Médecin  
 0. Richard Valentin - Étudiant  
 0. Richaud Aurélien - Développeur  
