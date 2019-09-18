@@ -7,10 +7,11 @@ Le Collectif appelle de ses vœux une révision de la place de l’information s
 Il invite à une réflexion collective sur la façon de rendre à la science la place qu’elle mérite, ce pour un débat public raisonné, pour le bien de notre vie politique, et de nos concitoyen·ne·s. « La science n’a pas de patrie », nous dit Louis Pasteur. Elle ne saurait, de plus, avoir de parti-pris idéologique.
 
 **C’est dans cette optique qu’il vient de publier une tribune intitulée “Santé, Environnement, Recherche : la méthode scientifique oubliée des médias” dans la presse francophone**
-  - **Le 14 juillet 2019 dans [Le Soleil](https://www.lesoleil.com/actualite/science/la-methode-scientifique-oubliee-dans-les-medias-b2ffb3daae4555df5a140e0252b067ef)**
-  - **Le 15 juillet 2019 dans [Heidi.news](https://www.heidi.news/articles/sante-environnement-recherche-la-methode-scientifique-oubliee-des-medias)**
-  - **Le 15 juillet 2019 dans [L’Opinion](https://www.lopinion.fr/edition/politique/science-ne-saurait-avoir-parti-pris-l-appel-250-scientifiques-aux-192812)**
-  - **Le 15 juillet 2019 dans [La Libre](https://www.lalibre.be/debats/opinions/pour-lutter-contre-les-fake-news-les-scientifiques-ne-doivent-pas-devenir-les-ennemis-des-journalistes-5d287ca2f20d5a58a827f72f)**
+
+- **Le 14 juillet 2019 dans [Le Soleil](https://www.lesoleil.com/actualite/science/la-methode-scientifique-oubliee-dans-les-medias-b2ffb3daae4555df5a140e0252b067ef)**
+- **Le 15 juillet 2019 dans [Heidi.news](https://www.heidi.news/articles/sante-environnement-recherche-la-methode-scientifique-oubliee-des-medias)**
+- **Le 15 juillet 2019 dans [L’Opinion](https://www.lopinion.fr/edition/politique/science-ne-saurait-avoir-parti-pris-l-appel-250-scientifiques-aux-192812)**
+- **Le 15 juillet 2019 dans [La Libre](https://www.lalibre.be/debats/opinions/pour-lutter-contre-les-fake-news-les-scientifiques-ne-doivent-pas-devenir-les-ennemis-des-journalistes-5d287ca2f20d5a58a827f72f)**
 
 Cette tribune co-écrite par 20 rédacteur·trice·s est signée à sa parution par 250 personnes.
 

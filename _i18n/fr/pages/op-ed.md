@@ -3,15 +3,16 @@
 Dans une démocratie, les journalistes portent une lourde responsabilité, puisque de la liberté dont ils et elles disposent, ainsi que de la qualité de l’information livrée, dépend la qualité du débat public et des choix qui en découlent. La méthode scientifique, de son côté, permet de produire des connaissances fiables pouvant servir de base de réflexion pour les politiques publiques portant sur des questions complexes telles que l’alimentation, la santé publique ou l’écologie [[1](#ref1)]. Il apparaît alors évident que scientifiques et journalistes doivent travailler main dans la main : les premier·e·s ne devant pas s’isoler médiatiquement par crainte de voir leurs travaux déformés, les second·e·s ne pouvant se permettre de travestir ni le travail des premier·e·s, ni les faits.
 
 C’est sur ce dernier point que nous alertons les acteurs et actrices des médias. Nous assistons aujourd’hui à un dévoiement grandissant du travail des scientifiques. Leurs résultats ne sont bien souvent mis en avant que s’ils confortent des opinions préexistantes. Dans le cas contraire, certain·e·s iront sous-entendre leur rémunération par un lobby malveillant. Soyons clair·e·s : l’état de nos connaissances ne saurait être un supermarché dans lequel on pourrait ne choisir que ce qui nous convient et laisser en rayon ce qui contredit nos opinions. Il existe en effet des consensus scientifiques sur des sujets aussi divers que :
-* La santé :
-  * La balance bénéfice/risque des principaux vaccins est sans appel en faveur de la vaccination [[2](#ref2),[3](#ref3)].
-  * Il n’existe aucune preuve de l’efficacité propre des produits homéopathiques [[4](#ref4)].
-* L’agriculture :
-  * Aux expositions professionnelles et alimentaires courantes, les différentes instances chargées d’évaluer le risque lié à l’usage de glyphosate considèrent improbable qu'il présente un risque cancérigène pour l’humain [[5](#ref5),[6](#ref6),[7](#ref7)].
-  * Le fait qu'un organisme soit génétiquement modifié (OGM) ne présente pas en soi de risque pour la santé [[8](#ref8)].
-* Le changement climatique :
-  * Le changement climatique est réel et d’origine principalement humaine [[9](#ref9)].
-  * L’énergie nucléaire est une technologie à faible émission de CO2 et peut contribuer à la lutte contre le changement climatique [[10](#ref10)].
+
+- La santé :
+  - La balance bénéfice/risque des principaux vaccins est sans appel en faveur de la vaccination [[2](#ref2),[3](#ref3)].
+  - Il n’existe aucune preuve de l’efficacité propre des produits homéopathiques [[4](#ref4)].
+- L’agriculture :
+  - Aux expositions professionnelles et alimentaires courantes, les différentes instances chargées d’évaluer le risque lié à l’usage de glyphosate considèrent improbable qu'il présente un risque cancérigène pour l’humain [[5](#ref5),[6](#ref6),[7](#ref7)].
+  - Le fait qu'un organisme soit génétiquement modifié (OGM) ne présente pas en soi de risque pour la santé [[8](#ref8)].
+- Le changement climatique :
+  - Le changement climatique est réel et d’origine principalement humaine [[9](#ref9)].
+  - L’énergie nucléaire est une technologie à faible émission de CO2 et peut contribuer à la lutte contre le changement climatique [[10](#ref10)].
 
 Ce ne sont pas de simples opinions. Ce sont les conclusions issues de la littérature scientifique et soutenues par des institutions scientifiques fiables, comme l’OMS, l’Académie Européenne des Sciences, l’Académie Nationale de Médecine, l’Académie d’Agriculture, ou encore le GIEC.
 

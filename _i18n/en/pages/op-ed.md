@@ -3,15 +3,16 @@
 In a democracy, journalists carry a heavy responsibility. The quality of public debate depends on the freedom which journalists enjoy, and on the quality of information which they provide; this also affects decision making. The scientific method offers a reliable base of knowledge that can be used as a basis to formulate public policies on complex issues such as food, health or ecology [[1](#ref1)]. Therefore it seems logical for scientists and journalists to work together. Scientists should not shun the media for fear of misrepresentation of their work; journalists should report scientific facts and studies with no distortion.
 
 We want to alert media professionals concerning this latter point. Today, we see an increasing misrepresentation of scientific results. These are often recognized only if they comfort pre-existing opinions. In the opposite case, the implication is that such research is funded by an evil lobby. Let’s be clear: scientific knowledge is not a supermarket in which one can choose what one likes and leave what goes against one’s opinions. Indeed, there exists a scientific consensus on topics as diverse as:
-* Health:
-  * The risk/benefit ratio of the main vaccines is clearly in favor of vaccination [[2](#ref2),[3](#ref3)].
-  * There is no proof of the inherent efficacy of homeopathic products [[4](#ref4)].
-* Agriculture:
-  * At standard professional and food exposure levels, the different agencies in charge of glyphosate risk evaluation consider it unlikely that it presents a carcinogenic risk for humans [[5](#ref5),[6](#ref6),[7](#ref7)].
-  * The fact that a plant is genetically modified (GMO) does not in itself pose any risk for health [[8](#ref8)].
-* Climate change:
-  * Climate change is a fact and it is mainly due to human activity [[9](#ref9)].
-  * Nuclear energy is a low CO2 emission technology and can contribute to fighting climate change [[10](#ref10)].
+
+- Health:
+  - The risk/benefit ratio of the main vaccines is clearly in favor of vaccination [[2](#ref2),[3](#ref3)].
+  - There is no proof of the inherent efficacy of homeopathic products [[4](#ref4)].
+- Agriculture:
+  - At standard professional and food exposure levels, the different agencies in charge of glyphosate risk evaluation consider it unlikely that it presents a carcinogenic risk for humans [[5](#ref5),[6](#ref6),[7](#ref7)].
+  - The fact that a plant is genetically modified (GMO) does not in itself pose any risk for health [[8](#ref8)].
+- Climate change:
+  - Climate change is a fact and it is mainly due to human activity [[9](#ref9)].
+  - Nuclear energy is a low CO2 emission technology and can contribute to fighting climate change [[10](#ref10)].
 
 These are not simply opinions. They are conclusions drawn from scientific studies, supported by reliable scientific institutions such as the WHO, the European Academy of Sciences, the French National Academy of Medicine, the French Academy of Agriculture, or the IPCC.
 
