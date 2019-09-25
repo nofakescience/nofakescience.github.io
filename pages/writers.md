@@ -4,7 +4,7 @@ layout: page
 title: pages.writers.title
 
 namespace: writers
-permalink: /writers
+permalink: /redacteurs
 permalink_en: /writers
 
 display-title: true

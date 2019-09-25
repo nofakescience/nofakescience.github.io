@@ -6,13 +6,13 @@ L'initiative d’écrire notre tribune et de regrouper ses rédacteurs en collec
 
 La tribune #NoFakeScience a été rédigée par 20 auteur·trice·s indépendant·e·s de toute pression politique et/ou industrielle.
 
-Pour plus d’informations, nous vous renvoyons à notre page [“Qui sommes-nous”](https://nofake.science/a-propos).
+Pour plus d’informations, nous vous renvoyons à notre page ["Qui sommes-nous"](https://nofake.science/a-propos).
 
 #### De qui est-il composé ?
 
 Le collectif #NoFakeScience est composé de 20 personnes issues de différentes formations et exerçant dans des domaines variés, mais ayant tou.te.s en commun d’exercer un métier scientifique (chercheur·se, ingénieur·e, *etc*.) ou en rapport avec la science (vulgarisateur·rice, gestionnaire de l’information, *etc*.).
 
-Vous pouvez retrouver leurs profils dans la section [“Présentation des rédacteurs](https://nofake.science/writers).
+Vous pouvez retrouver leurs profils dans la section ["Présentation des rédacteurs"](https://nofake.science/redacteurs).
 
 #### Comment soutenir le collectif No Fake Science ?
 
@@ -24,7 +24,7 @@ Vous pouvez soutenir le collectif en signant la [tribune #NoFakeScience](https:/
 
 #### Pourquoi la tribune a-t-elle été publiée dans l’Opinion ?
 
-La tribune #NoFakeScience intitulée “Santé, Environnement, Recherche : la méthode scientifique oubliée des médias” a été publiée presque simultanément dans quatre titres de la presse francophone :
+La tribune #NoFakeScience intitulée "Santé, Environnement, Recherche : la méthode scientifique oubliée des médias" a été publiée presque simultanément dans quatre titres de la presse francophone :
 
 - Le 14 juillet 2019 dans [Le Soleil](https://www.lesoleil.com/actualite/science/la-methode-scientifique-oubliee-dans-les-medias-b2ffb3daae4555df5a140e0252b067ef) (Canada)
 - Le 15 juillet 2019 dans [Heidi.news](https://www.heidi.news/articles/sante-environnement-recherche-la-methode-scientifique-oubliee-des-medias) (Suisse)
