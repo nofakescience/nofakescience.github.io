@@ -10,7 +10,7 @@ lang: fr_FR
 include: [".nojekyll"]
 
 # jekyll-multiple-languages-plugin settings
-languages: ["fr","en"]
+languages: ["fr","en","pt"]
 
 # seo format, do not change the keys.
 twitter:

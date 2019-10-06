@@ -6,6 +6,7 @@ title: pages.faq.title
 namespace: faq
 permalink: /faq
 permalink_en: /faq
+permalink_pt: /faq
 
 display-title: true
 button: true

@@ -6,6 +6,7 @@ title: pages.writers.title
 namespace: writers
 permalink: /redacteurs
 permalink_en: /writers
+permalink_pt: /writers
 
 display-title: true
 button: true
