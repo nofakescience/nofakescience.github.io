@@ -66,6 +66,50 @@ header {
 			a:last-child {
 				margin-right: 2vw;
 			}
+
+			select {
+				cursor: pointer;
+				margin-right: 2vw;
+				padding: 0.51vw 1.58vh;
+				outline: 0;
+				border: 0;
+				border-radius: 8px;
+				background: #E6E6E6;
+				color: #7B7B7B;
+				appearance: none;
+				-webkit-appearance: none;
+				-moz-appearance: none;
+
+				&:-ms-expand {
+					display: none;
+				}
+
+				&:hover {
+					color: #000000;
+					background: #CCCCCC;
+				}
+
+				&:disabled {
+					opacity: 0.5;
+					pointer-events: none;
+				}
+			}
+
+			div#select-language-arrow {
+				position: absolute;
+				margin-right: 2vw;
+				right: 1vw;
+				width: 0;
+				height: 0;
+				pointer-events: none;
+				border-style: solid;
+				border-width: 8px 5px 0 5px;
+				border-color: #7B7B7B transparent transparent transparent;
+			}
+			
+			select:hover ~ div#select-language-arrow {
+					border-top-color: #000000;
+			}
 		}
 	}
 

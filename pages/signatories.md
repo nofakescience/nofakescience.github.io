@@ -6,6 +6,7 @@ title: pages.signatories.title
 namespace: signatories
 permalink: /signataires
 permalink_en: /signatories
+permalink_pt: /signatories
 
 display-title: true
 button: true

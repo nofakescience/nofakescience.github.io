@@ -1,4 +1,4 @@
-**Collectif NoFakeScience**
+**Rédacteurs NoFakeScience**
 
 1. Bonneel Nicolas - Chercheur en informatique
 2. Bucher Guillaume - Ingénieur en génie atomique

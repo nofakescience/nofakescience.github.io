@@ -13,15 +13,15 @@ includes:
 
 pages:
   about:
-    title: "About us"
+    title: "Quem somos?"
   faq:
-    title: "Frequently Asked Questions"
+    title: "Questões mais frequentes"
   writers:
-    title: "Presentation of writers"
+    title: "Apresentação dos redatores"
   signatories:
-    title: "Signatories"
+    title: "Signatários"
   op-ed:
-    title: "Op-ed"
+    title: "Artigo de opinião"
   index:
     title: "Index"
   404:

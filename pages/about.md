@@ -6,6 +6,7 @@ title: pages.about.title
 namespace: about-us
 permalink: /a-propos
 permalink_en: /about-us
+permalink_pt: /about-us
 
 display-title: true
 button: true

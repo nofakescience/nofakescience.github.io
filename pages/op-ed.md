@@ -6,6 +6,7 @@ title: pages.op-ed.title
 namespace: op-ed
 permalink: /tribune
 permalink_en: /op-ed
+permalink_pt: /op-ed
 
 display-title: false
 button: true
