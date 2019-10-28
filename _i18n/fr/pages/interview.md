@@ -29,7 +29,7 @@ Enfin, il ne faut pas perdre de vue que notre métier ne se réduit pas à vulga
 
 Je ne crois pas, du moins dans mon domaine, qu'il y ait de grandes différences. J'ai souvent l'occasion d'échanger avec des confrères de nationalités très diverses lors de colloques à l'étranger par exemple et j'ai toujours l'impression que nous fonctionnons de la même manière. Le ton peut être différent, mais nous partageons les mêmes valeurs. Cela ne vaut bien sûr, que dans les pays où la presse est libre et où les journalistes peuvent travailler dans des bonnes conditions.
 
-##### Le Métier de Journalisme scientifique
+### Le Métier de Journalisme scientifique
 
 #### Pourriez-vous définir rapidement ce qu'est le journalisme scientifique et quelles sont ses spécificités par rapport aux autres types de journalisme ?
 
@@ -63,7 +63,7 @@ Choquer ? Je vous avoue que cela ne m'arrive pas souvent de devoir traiter des i
 
 Les échanges avec les experts sont courants, même après la publication d'un article. Il nous arrive de faire des erreurs. Dans le magazine, le seul moyen de les corriger est de publier un erratum dans le numéro suivant. Sur le web, c'est plus simple. Il suffit de se replonger dans le back office de notre site et la correction est effective quelques minutes plus tard. Mais il existe aussi des situations où nous ne faisons pas de corrections quand nous estimons qu'elles ne sont pas justifiées. Par exemple, s'il s'agit d'un expert qui s'oppose à un consensus scientifique. C'est toujours délicat de juger de sa légitimité, mais généralement nous interrogeons assez de monde pour nous faire une bonne idée du consensus. Nous n'acceptons pas non plus une correction relevant de la communication et non de l'information. Une entreprise peut ne pas apprécier que nous ayons dit que son médicament n'avait aucun effet contre le cancer. Mais si les faits l'attestent, nous ne modifierons pas l'article. Par contre, cette entreprise peut toujours demander à exercer son droit de réponse, que nous ne sommes d'ailleurs pas obligés d'accepter. Dans ce cas, cela peut se terminer au tribunal. Personnellement, j'en garde toujours un peu sous le pied en prévision de cette éventualité. Tout n'est pas dans mes papiers…
 
-##### Méthode personnelle
+### Méthode personnelle
 
 #### Comment déterminez-vous quel est le bon niveau de vulgarisation ? Avez-vous une méthodologie précise pour vulgariser un sujet ?
 
