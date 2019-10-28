@@ -12,6 +12,8 @@ includes:
     title: "In the press"
 
 pages:
+  interview:
+    title: "Interview"
   about:
     title: "About us"
   faq:

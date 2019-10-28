@@ -12,6 +12,8 @@ includes:
     title: "Dans la presse"
 
 pages:
+  interview:
+    title: "Entretien avec Olivier Hertel"
   about:
     title: "Qui sommes-nous ?"
   faq:

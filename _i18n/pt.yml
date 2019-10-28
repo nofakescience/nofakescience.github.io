@@ -12,6 +12,8 @@ includes:
     title: "In the press"
 
 pages:
+  interview:
+    title: "Manutenção"
   about:
     title: "Quem somos?"
   faq:
