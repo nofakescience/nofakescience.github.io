@@ -19,15 +19,28 @@
 				<div id="select-language-arrow"></div>-->
 			</div>
 		</div>
-		<nav>
-			{% assign pages = site.pages | sort:"order" %}
-			{% for page in pages %}
-				{% if page.button %}
-						<a href="{{ page.url | absolute_url }}">
+		<nav role="navigation">
+			<ul>
+				{% assign pages = site.pages | group_by: "category" %}
+				{% for category in pages %}
+					{% if category.name != "" %}
+						<li><a href="#">{% translate category.name %}</a>
+							<ul>
+					{% endif %}
+					{% assign pages = category.items | sort:"order" %}
+					{% for page in pages %}
+						{% if page.button %}
+							<li><a href="{{ page.url | absolute_url }}">
 								{% translate page.title %}
-						</a>
-				{% endif %}
-			{% endfor %}
+							</a></li>
+						{% endif %}
+					{% endfor %}
+					{% if category.name != "" %}
+							</ul>
+						</li>
+					{% endif %}
+				{% endfor %}
+			</ul>
 		</nav>
 </header>
 

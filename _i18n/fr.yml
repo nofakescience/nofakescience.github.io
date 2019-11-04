@@ -13,7 +13,7 @@ includes:
 
 pages:
   interview:
-    title: "Entretien avec Olivier Hertel"
+    title: "Olivier Hertel"
   about:
     title: "Qui sommes-nous ?"
   faq:
@@ -28,3 +28,7 @@ pages:
     title: "Index"
   404:
     title: "Page inconnue"
+
+categories:
+  interviews:
+    title: "Entretiens"

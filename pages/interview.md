@@ -10,7 +10,8 @@ permalink_pt: /interview
 
 display-title: true
 button: true
-order: 6
+category: categories.interviews.title
+order: 1
 ---
 
 {% translate_file pages/interview.md %}

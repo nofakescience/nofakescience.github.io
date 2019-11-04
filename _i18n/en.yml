@@ -13,7 +13,7 @@ includes:
 
 pages:
   interview:
-    title: "Interview"
+    title: "Olivier Hertel"
   about:
     title: "About us"
   faq:
@@ -28,3 +28,7 @@ pages:
     title: "Index"
   404:
     title: "Unknown Page"
+
+categories:
+  interviews:
+    title: "Interviews"
