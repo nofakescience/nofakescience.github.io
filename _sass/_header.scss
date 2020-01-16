@@ -169,7 +169,6 @@ header {
 						width: 100%;
 						border: none;
 						border-top: 1.1px dashed #BFBFBF;
-						border-bottom: 0.1px solid #BFBFBF;
 						
 						a {
 							margin-top: 0.5vh;
@@ -184,6 +183,15 @@ header {
 								color: $main;
 							}
 						}
+					}
+					
+					li:not(:first-child) {
+						border: none;
+						border-top: 1.1px dashed #BFBFBF;
+					}
+					
+					li:last-child {
+						border-bottom: 0.1px solid #BFBFBF;
 					}
 				}
 			}
