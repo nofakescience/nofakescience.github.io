@@ -12,7 +12,9 @@ includes:
     title: "In the press"
 
 pages:
-  interview:
+  interview_soline_roy:
+    title: "Soline Roy"
+  interview_olivier_hertel:
     title: "Olivier Hertel"
   about:
     title: "About us"
